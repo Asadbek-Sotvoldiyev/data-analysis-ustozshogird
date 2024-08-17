@@ -1,0 +1,5874 @@
+[
+    {
+        "age": " 22",
+        "technologies": "  javascript, react. js, redux  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-01T11:00:49"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c++ java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-02T09:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react js  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-02T13:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, java, javascript  ",
+        "location": "  andijon   ",
+        "price": " 100 000 - 300 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-01-02T16:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  laravel 8  ",
+        "location": "  samarqand  ",
+        "price": " 250 000 so'm + ",
+        "post_type": "teacher",
+        "date": "2022-01-02T17:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c++  ",
+        "location": "  qashqadaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-03T14:01:35"
+    },
+    {
+        "age": " 24",
+        "technologies": "  javascript, python  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-03T19:00:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-04T11:00:22"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python  ",
+        "location": "  fargʻona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-04T12:00:15"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python  ",
+        "location": "  navoiy  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-04T13:01:46"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, django, html, css  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-04T14:00:40"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python  ",
+        "location": "  xorazm ",
+        "price": " 150 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-04T21:00:30"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python  ",
+        "location": "  andijon",
+        "price": " 200 000 - 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-04T21:00:31"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react. js, vue. js  ",
+        "location": "  namangan ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-05T19:01:42"
+    },
+    {
+        "age": " 23",
+        "technologies": "  django, drf, git, postgresql  ",
+        "location": "  fargʻona ",
+        "price": " 400 000 - 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-05T20:00:54"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react js  ",
+        "location": "  navoiy   ",
+        "price": " 100 000 - 500 000 ming so’m ",
+        "post_type": "teacher",
+        "date": "2022-01-05T20:59:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  php, mysql, django   ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-05T20:59:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, javascript  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-05T21:01:29"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c++, c, python  ",
+        "location": "  jizzax  ",
+        "price": " 150 000 - 200 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-01-06T10:05:07"
+    },
+    {
+        "age": " 30",
+        "technologies": "  python  ",
+        "location": "  xorazm  ",
+        "price": " 200 000 - 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-06T11:00:52"
+    },
+    {
+        "age": " 23",
+        "technologies": "  telegram bot ,  php  ",
+        "location": "  sirdaryo  ",
+        "price": " 200. 000 - 300. 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-06T11:05:08"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, javascript, react, php, yii2  ",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-01-06T14:01:49"
+    },
+    {
+        "age": " 21",
+        "technologies": "  unreal engine  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-06T20:01:24"
+    },
+    {
+        "age": " 21",
+        "technologies": "  php, laravel",
+        "location": "  qoraqalpoqiston  ",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-07T16:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, android, kotlin  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-08T12:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-08T14:00:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 - 400 000 ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-08T18:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java, android  ",
+        "location": "  jizzax  ",
+        "price": " 300 000-500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-08T20:59:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react js, nodejs  ",
+        "location": "  sirdaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-08T20:59:58"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python django  ",
+        "location": "  toshkent   sh ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-09T09:00:51"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, es6, vuejs  ",
+        "location": "  farg'ona vil qoqon sh ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-09T11:00:01"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java  ",
+        "location": "  fargʻona   ",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-09T21:00:10"
+    },
+    {
+        "age": " 17",
+        "technologies": "  java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-09T21:00:10"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django, drf, postgresql,   ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-11T11:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  typescript, react js  ",
+        "location": "  qashqadaryo",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-01-13T14:59:58"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django, telegram bot, postgresql  ",
+        "location": "  toshkent  ",
+        "price": " 500 000 - 650 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-13T15:59:58"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-13T21:00:18"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-14T14:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, php, vuejs, laravel  ",
+        "location": "  samarqand  ",
+        "price": " 1. 200. 000  /oy  ",
+        "post_type": "teacher",
+        "date": "2022-01-14T21:00:25"
+    },
+    {
+        "age": " 25",
+        "technologies": "  javascript, php  ",
+        "location": "  jizzax  ",
+        "price": " 700. 000 ming/oy ",
+        "post_type": "teacher",
+        "date": "2022-01-14T21:00:25"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django, telegram bot, git",
+        "location": "  toshkent sh",
+        "price": " 10$ ",
+        "post_type": "teacher",
+        "date": "2022-01-15T10:01:02"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react, vue  ",
+        "location": "  toshkent sh  ",
+        "price": " 400 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-01-16T11:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  unity, c#  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-16T12:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-16T19:05:00"
+    },
+    {
+        "age": "",
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-16T21:14:42"
+    },
+    {
+        "age": " 11",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-17T14:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, html, algoritm, python   ",
+        "location": "  toshkent sh",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-01-18T08:59:58"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python  ",
+        "location": "  buxoro   ",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-19T21:00:03"
+    },
+    {
+        "age": " 14",
+        "technologies": "  unreal engine 4  ",
+        "location": "  toshkent sh",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-01-19T21:00:03"
+    },
+    {
+        "age": " 17",
+        "technologies": "  java  ",
+        "location": "  farg'ona vil qo`qon sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-20T16:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, c++  ",
+        "location": "  andijon   ",
+        "price": " 100 000 - 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-22T11:59:52"
+    },
+    {
+        "age": " 24",
+        "technologies": "  django ",
+        "location": "  andijon, toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-22T12:59:52"
+    },
+    {
+        "age": " 16",
+        "technologies": "  dart, flutter  ",
+        "location": "  toshkent sh",
+        "price": " 600. 000 dan kam emas ",
+        "post_type": "teacher",
+        "date": "2022-01-22T18:59:52"
+    },
+    {
+        "age": " 26",
+        "technologies": "  java, spring, oop, sql, mysql, postgresql, maven, gradle, git",
+        "location": "  toshkent sh  ",
+        "price": " 200$ ",
+        "post_type": "teacher",
+        "date": "2022-01-23T13:04:51"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, html, css",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-24T10:59:50"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java   ",
+        "location": "  toshkent sh  ",
+        "price": " 400 000 - 800 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-24T17:59:50"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c++, python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-25T12:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java  ",
+        "location": "  andijon   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-25T14:59:59"
+    },
+    {
+        "age": " 20",
+        "technologies": "  vuejs",
+        "location": "  toshkent sh  ",
+        "price": " 90$ ",
+        "post_type": "teacher",
+        "date": "2022-01-25T15:59:59"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-25T16:59:59"
+    },
+    {
+        "age": " 31",
+        "technologies": "  html, css, javascript, reactjs, vuejs, python, django, drf  ",
+        "location": "  surxondaryo vil termiz sh  ",
+        "price": " 100 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-26T11:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c# dotnet  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-27T12:00:23"
+    },
+    {
+        "age": " 24",
+        "technologies": "  html, css, java",
+        "location": "  toshkent sh",
+        "price": " 400 000 -500 000 ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-27T15:00:46"
+    },
+    {
+        "age": " 30",
+        "technologies": "  python, telegram bot, sql, git, postgresql, c++  ",
+        "location": "  xorazm viloyati  ",
+        "price": " 200 000 - 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-01-27T16:02:09"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-27T20:02:01"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java  ",
+        "location": "  toshkent sh",
+        "price": " 20-30$ ",
+        "post_type": "teacher",
+        "date": "2022-01-27T21:00:12"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python",
+        "location": "  namangan  ",
+        "price": " 170 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-01-28T12:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  android, kotlin, java  ",
+        "location": "  toshkent sh",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-01-28T20:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, data science, c++",
+        "location": "  andijon  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-29T21:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  swift ios  ",
+        "location": "  toshkent sh  ",
+        "price": " 100$+ ",
+        "post_type": "teacher",
+        "date": "2022-01-29T21:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-29T21:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, data, java  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-29T21:00:00"
+    },
+    {
+        "age": " 28",
+        "technologies": "  linux, ngnix, devops  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-29T21:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  buxoro, samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-30T13:00:53"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java, spring boot  ",
+        "location": "  toshkent sh",
+        "price": " 200 $ + ",
+        "post_type": "teacher",
+        "date": "2022-01-30T14:01:41"
+    },
+    {
+        "age": " 27",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": " 500 000 - 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-30T21:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  c++  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-30T21:00:01"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-30T21:00:01"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, javascript, php, python",
+        "location": "  andijon ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-01-31T15:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, data science",
+        "location": "  andijon  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-01-31T19:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, reactjs, html, css, nodejs  ",
+        "location": "  namangan  ",
+        "price": " 100$ - 150$gacha ",
+        "post_type": "teacher",
+        "date": "2022-01-31T20:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  android ",
+        "location": "  andijon   ",
+        "price": " 500 000 soʻm ",
+        "post_type": "teacher",
+        "date": "2022-02-01T12:59:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  django  ",
+        "location": "  farg'ona  ",
+        "price": " 200 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-01T14:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, data science, machine learning  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-01T16:59:59"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, html  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-01T18:59:58"
+    },
+    {
+        "age": " 23",
+        "technologies": "  html, css, javascript, es6, bootstrap, jquery, php",
+        "location": "  toshkent vil",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-01T21:00:06"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, laravel",
+        "location": "  samarqand  ",
+        "price": " 180. 000 - 300. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-01T21:00:06"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, html, c++  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-01T21:00:06"
+    },
+    {
+        "age": " 30",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": " 300. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-01T21:00:06"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-02T11:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  react js, redux, next js  ",
+        "location": "  andijon",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-02T12:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  java",
+        "location": "  toshkent sh",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-02T16:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, java, android, ios",
+        "location": "  andijon  ",
+        "price": " 200 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-02-02T18:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  java",
+        "location": "  toshkent sh",
+        "price": " 300 000so'm",
+        "post_type": "teacher",
+        "date": "2022-02-04T10:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, sql  ",
+        "location": "  toshkent sh  ",
+        "price": " 300 000+ so'm",
+        "post_type": "teacher",
+        "date": "2022-02-04T11:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python. java  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-04T21:00:11"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, c++, html",
+        "location": "  andijon ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-05T21:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, django, sql  ",
+        "location": "  surxondaryo vil, termiz sh  ",
+        "price": " 300,000+ ",
+        "post_type": "teacher",
+        "date": "2022-02-06T17:02:01"
+    },
+    {
+        "age": " 29",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": " 350,000 - 400,000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-06T21:01:30"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react, redux, next js  ",
+        "location": "  toshkent sh",
+        "price": " 100$-300$ ",
+        "post_type": "teacher",
+        "date": "2022-02-07T11:01:25"
+    },
+    {
+        "age": " 29",
+        "technologies": "  c++, python  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T13:02:02"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, javascript, html, css  ",
+        "location": "  farg‘ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T15:01:43"
+    },
+    {
+        "age": " 20",
+        "technologies": "  java, android  ",
+        "location": "  jizzax   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T16:00:07"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, reactjs ,  python",
+        "location": "  fargʻona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T17:00:17"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T18:00:47"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript, react js, vuejs, bootstrap  ",
+        "location": "  namangan   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T20:01:15"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T21:00:20"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java c++  ",
+        "location": "  jizzax ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T21:00:20"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, java, c++, c#",
+        "location": "  fargona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-07T21:00:20"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, c, javascript",
+        "location": "  toshkent viloyati  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-08T09:59:56"
+    },
+    {
+        "age": " 22",
+        "technologies": "  flutter, dart  ",
+        "location": "  xorazm  ",
+        "price": " 200. 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-02-08T12:05:06"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, django  ",
+        "location": "  namangan   ",
+        "price": " 300. 000+ so'm",
+        "post_type": "teacher",
+        "date": "2022-02-08T13:05:08"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, data science, ml, ai, git",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-08T17:05:02"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, c++, c#  ",
+        "location": "  xorazm ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-09T09:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, bootstrap, less, sass, javascript, react",
+        "location": "  toshkent  sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-09T14:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  css, javascript, react, html  ",
+        "location": "  namangan  ",
+        "price": " 400 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-02-09T21:00:23"
+    },
+    {
+        "age": " 20",
+        "technologies": "  windows server, linux, cisco  ",
+        "location": "  samarqand toshkent sh  ",
+        "price": " 150. 000 - 500. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-10T12:00:32"
+    },
+    {
+        "age": " 21",
+        "technologies": "  golang  ",
+        "location": "  toshkent sh",
+        "price": " 500. 000 - 800. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-10T20:59:59"
+    },
+    {
+        "age": " 26",
+        "technologies": "  flutter, ios, android ",
+        "location": "  surxondaryo   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-10T20:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, php, django, react, javascript  ",
+        "location": "  toshkent sh  ",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-02-11T14:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java  ",
+        "location": "  navoiy ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-11T16:00:00"
+    },
+    {
+        "age": " 26",
+        "technologies": "  python, telegram bot  ",
+        "location": "  sirdaryo   ",
+        "price": " 300. 000 sòm ",
+        "post_type": "teacher",
+        "date": "2022-02-11T21:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  html, css, javascript, vue, python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-12T09:59:58"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, java script, php 5,   ",
+        "location": "  andijon  ",
+        "price": " 100 000 - 350 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-02-12T19:00:18"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java, c++  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-12T21:00:37"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c# sql asp. net mvc  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-13T11:00:11"
+    },
+    {
+        "age": " 25",
+        "technologies": "  devops  ",
+        "location": "  toshkent sh  ",
+        "price": " 800 000 - 1 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-13T16:01:19"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java, spring  ",
+        "location": "  toshkent sh  ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-02-14T11:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-14T12:59:59"
+    },
+    {
+        "age": " 24",
+        "technologies": "  django  ",
+        "location": "  andijon, toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-14T19:01:29"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, telegram-bot  ",
+        "location": "  samarqand",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-14T21:00:03"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-15T10:01:12"
+    },
+    {
+        "age": " 20",
+        "technologies": "  win server, linux, cisco  ",
+        "location": "  samarqand  ",
+        "price": " 150. 000 - 400. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-15T17:01:31"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, bootstrap, jquery, react, javascript, git",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 -  600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-15T21:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, javascript  ",
+        "location": "  farg'ona   ",
+        "price": " 100 000 - 250 000 mingacha",
+        "post_type": "teacher",
+        "date": "2022-02-15T21:00:12"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "teacher",
+        "date": "2022-02-15T21:00:12"
+    },
+    {
+        "age": " 20",
+        "technologies": "  telegram bot, flask, django  ",
+        "location": "  farg'ona   ",
+        "price": " 300 000 - 500 000 gacha ",
+        "post_type": "teacher",
+        "date": "2022-02-16T12:00:56"
+    },
+    {
+        "age": " 21",
+        "technologies": "  qa engineer   ",
+        "location": "  toshkent sh",
+        "price": " 500. 000 ming yoki ustoz aytgan summaga qarab ",
+        "post_type": "teacher",
+        "date": "2022-02-16T17:59:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python  ",
+        "location": "  andijon   ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-02-16T18:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  mongodb, oracle, git, spring  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-16T20:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  tizim adminstratorligi, windows, linux  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-16T20:59:59"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, html  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-17T13:01:01"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, bootstrap, javascript, reactjs, jquery  ",
+        "location": "  farg'ona ",
+        "price": " 200 000 - 300 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-02-17T17:01:04"
+    },
+    {
+        "age": " 22",
+        "technologies": "  buxgalterya 1c, 8. 3 +deplom  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 - 500  000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-17T20:01:49"
+    },
+    {
+        "age": "",
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-18T08:00:53"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, php, telegram bot  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-18T17:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, telegram bot  ",
+        "location": "  andijon  ",
+        "price": " 100. 000 + soʻm ",
+        "post_type": "teacher",
+        "date": "2022-02-18T20:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  react js  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-18T20:59:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  flutter  ",
+        "location": "  farg'ona  ",
+        "price": " 300 000 + ",
+        "post_type": "teacher",
+        "date": "2022-02-19T09:00:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, css, html  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-19T16:00:23"
+    },
+    {
+        "age": " 22",
+        "technologies": "  oracle, pl, sql  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 - 500 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-02-19T19:00:56"
+    },
+    {
+        "age": " 23",
+        "technologies": "  1c  ",
+        "location": "  sirdaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-19T21:00:56"
+    },
+    {
+        "age": " 24",
+        "technologies": "  javascript, reactjs  ",
+        "location": "  andijon  ",
+        "price": " 500. 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-02-19T21:00:56"
+    },
+    {
+        "age": " 18",
+        "technologies": "  cisco, linux server, win server  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-20T10:00:44"
+    },
+    {
+        "age": " 20",
+        "technologies": "  php, javascript, mysql, html, css, bootstrap, symfony, vuex, git, linux  ",
+        "location": "  namangan  ",
+        "price": " 300 000 - 500 000 ming",
+        "post_type": "teacher",
+        "date": "2022-02-20T12:00:30"
+    },
+    {
+        "age": " 14",
+        "technologies": "  ios developer  ",
+        "location": "  farg'ona vil qoqon sh ",
+        "price": " 500 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-02-20T15:01:20"
+    },
+    {
+        "age": " 21",
+        "technologies": "  cisco ccna v7 + security  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-20T21:01:19"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python  ",
+        "location": "  samarqand  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-20T21:01:19"
+    },
+    {
+        "age": " 29",
+        "technologies": "  python, c#, java  ",
+        "location": "  toshkent sh",
+        "price": " 300. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-20T21:01:19"
+    },
+    {
+        "age": "",
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-20T21:05:02"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, react  ",
+        "location": "  buxoro  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-21T12:00:44"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, aiogram  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-21T13:05:10"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react js  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-21T15:01:57"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, django  ",
+        "location": "  fargʻona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-21T17:05:09"
+    },
+    {
+        "age": " 16",
+        "technologies": "  ios ",
+        "location": "  farg'ona  ",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-21T18:05:04"
+    },
+    {
+        "age": " 16",
+        "technologies": "  win server, linux, kali, cisco  ",
+        "location": "  samarqand  ",
+        "price": " 150$-400$ ",
+        "post_type": "teacher",
+        "date": "2022-02-22T19:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, bootstrap, javascript, jquery, python, django, drf  ",
+        "location": "  toshkent vil olmaliq sh  ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-02-23T15:01:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  html, css, reactjs, bootstrap, javascript, vuejs  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-23T16:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  c++",
+        "location": "  navoiy  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-24T14:02:03"
+    },
+    {
+        "age": " 16",
+        "technologies": "  react, redux, vue. js  ",
+        "location": "  farg'ona   ",
+        "price": " 20$-50$ ",
+        "post_type": "teacher",
+        "date": "2022-02-24T21:00:26"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, data struktura, algoritm  ",
+        "location": "  toshkent sh  ",
+        "price": " 100. 000 - 200. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-24T21:00:26"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, android",
+        "location": "  namangan  ",
+        "price": " 200 000 - 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-25T16:00:42"
+    },
+    {
+        "age": " 27",
+        "technologies": " kotlin, swift  ",
+        "location": "  qashqadaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-25T17:00:55"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, flutter  ",
+        "location": "  namangan",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-25T21:00:09"
+    },
+    {
+        "age": " 19",
+        "technologies": "  : html, css, bootstrap 5, git, javascript, jquery, sass, gulp, php, vuejs, algaritmlash, java, c++ ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-27T10:02:07"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c#, . net, sql, asp. net mvc  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-02-28T09:00:42"
+    },
+    {
+        "age": " 26",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": " 250 000 - 500 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-02-28T19:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " 400 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-02-28T21:00:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, django  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-01T12:01:27"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, react js, vue js,   ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-02T17:01:30"
+    },
+    {
+        "age": " 24",
+        "technologies": "  html, css, javascript, reactjs",
+        "location": "  toshknet sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-03T15:00:10"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, data science, mechina learn,   ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-04T11:01:42"
+    },
+    {
+        "age": " 19",
+        "technologies": "  native php, mysql, laravel",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-04T20:05:08"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, sunʼiy intellekt  ",
+        "location": "  fargʻona  ",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-06T16:00:09"
+    },
+    {
+        "age": " 24",
+        "technologies": "  flutter, dart",
+        "location": "  samarqand ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-06T21:00:19"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c#, . net, solid, orm, wpf, asp. net, mvc  ",
+        "location": "  toshkent   sh",
+        "price": " 100$+ ",
+        "post_type": "teacher",
+        "date": "2022-03-07T12:59:56"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, javascript, jquery, css, less, bootstrap, php, mysql, ruby  ",
+        "location": "  namangan   ",
+        "price": " 300 000 ming max ",
+        "post_type": "teacher",
+        "date": "2022-03-07T15:59:55"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, django, sql3, telegram bot  ",
+        "location": "  farg'ona vil, qo'qon sh  ",
+        "price": " 200 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-03-08T16:00:15"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, c++, c#, java, javascript  ",
+        "location": "  andijon",
+        "price": " 250 000 - 350 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-03-08T17:01:31"
+    },
+    {
+        "age": " 23",
+        "technologies": "  reactjs ,  javascript",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-08T18:02:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  mvp, dagger 2, moxy, rxjava 2, websoket  ",
+        "location": "  buxoro  ",
+        "price": " 200 000 ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-03-09T12:01:22"
+    },
+    {
+        "age": " 24",
+        "technologies": "   java",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-10T09:01:57"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, javascript, jquery, sass, bootstrapt, git, php, mysql, ruby, python, java, c++, c#  ",
+        "location": "  namangan   ",
+        "price": " max 300 000sôm ",
+        "post_type": "teacher",
+        "date": "2022-03-10T14:00:26"
+    },
+    {
+        "age": " 22",
+        "technologies": "  django, drf, telegram bot  ",
+        "location": "  qashqadaryo  ",
+        "price": " 200 000 - 300 ming gacha ",
+        "post_type": "teacher",
+        "date": "2022-03-11T12:05:09"
+    },
+    {
+        "age": " 27",
+        "technologies": "  3ds max interior design  ",
+        "location": "  farg'ona   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-11T13:01:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  telegram bot, php  ",
+        "location": "  surxondaryo  ",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-12T21:00:28"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java, c++, php  ",
+        "location": "  sirdaryo tumani, sirdaryo shaxari  ",
+        "price": " 4 milion ",
+        "post_type": "teacher",
+        "date": "2022-03-13T21:00:42"
+    },
+    {
+        "age": " 21",
+        "technologies": "  cyber security  ",
+        "location": "  farg'ona   ",
+        "price": " 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-14T11:59:57"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, telegram bot  ",
+        "location": "  buxoro, toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-14T18:59:56"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, html, css, js, 3d max",
+        "location": "  toshkent shahar  ",
+        "price": " 200. 000 ",
+        "post_type": "teacher",
+        "date": "2022-03-16T16:01:45"
+    },
+    {
+        "age": " 24",
+        "technologies": "  django, telegram bot  ",
+        "location": "  toshkent sh",
+        "price": " 200 000 - 300 000  ming ",
+        "post_type": "teacher",
+        "date": "2022-03-17T10:05:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  flutter bloc, firebase  ",
+        "location": "  toshkent sh  ",
+        "price": " 200$ ",
+        "post_type": "teacher",
+        "date": "2022-03-17T11:05:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  android  ",
+        "location": "  xorazm",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-18T11:05:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django, telegram bot  ",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-18T15:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html5, css3, bootstrap, sass, javascript, scss, react. js, git  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-18T19:05:08"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-19T20:59:59"
+    },
+    {
+        "age": "",
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-20T08:00:32"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react js  ",
+        "location": "  toshkent sh  ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-03-20T16:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  vuejs, react  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-20T18:59:59"
+    },
+    {
+        "age": " 24",
+        "technologies": "  bootstrap, java script, react, git  ",
+        "location": "  poland, warsaw  ",
+        "price": " individual, 40-50 $ ",
+        "post_type": "teacher",
+        "date": "2022-03-21T10:00:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, python, c++, c#, html, css  ",
+        "location": "  toshkent shahar  ",
+        "price": " tekin ",
+        "post_type": "teacher",
+        "date": "2022-03-21T12:02:01"
+    },
+    {
+        "age": " 24",
+        "technologies": "  algoritim  ",
+        "location": "  toshkent sh  ",
+        "price": " 400,000 - 500,000 ",
+        "post_type": "teacher",
+        "date": "2022-03-21T12:02:05"
+    },
+    {
+        "age": " 17",
+        "technologies": "  tarmoq, python",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-22T15:00:43"
+    },
+    {
+        "age": " 18",
+        "technologies": "  ios development, swift  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-22T17:00:25"
+    },
+    {
+        "age": " 20",
+        "technologies": "  unity, c#  ",
+        "location": "  toshkenta sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-23T19:59:59"
+    },
+    {
+        "age": " 20",
+        "technologies": "  ethical hacking, linux  ",
+        "location": "  farg'ona  ",
+        "price": " 500 000 ming/oy ",
+        "post_type": "teacher",
+        "date": "2022-03-24T20:00:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  django, djangorestapi  ",
+        "location": "  toshkent sh  ",
+        "price": " 400 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-25T10:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react  ",
+        "location": "  toshkent sh",
+        "price": " 0-500 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-03-25T15:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, java, selenium, git, charles, fiddler, jmeter  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-25T20:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  cyber security  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-26T19:01:18"
+    },
+    {
+        "age": " 27",
+        "technologies": "  javascript, react, reactnative, vuejs  ",
+        "location": "  toshkent sh.   ",
+        "price": " 300 000 - 400 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-03-27T10:59:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  kiber xavfsizlik, tarmoq adminligi, malumotlar bazasi,   ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-27T13:05:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  mern stack, node js, react js, express js, mongodb  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-28T15:59:44"
+    },
+    {
+        "age": " 23",
+        "technologies": "  vuejs",
+        "location": "  samarqand  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-28T16:59:44"
+    },
+    {
+        "age": " 19",
+        "technologies": "  kiberxavfsizlik, cisco, os keraklilari, tarmoq administratorligi  ",
+        "location": "  buxoro  ",
+        "price": " 100. 000 yoki +50000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-29T17:59:43"
+    },
+    {
+        "age": " 24",
+        "technologies": "  javascript, python, django   ",
+        "location": "  toshkent sh  ",
+        "price": " 100 000 ming",
+        "post_type": "teacher",
+        "date": "2022-03-29T20:59:43"
+    },
+    {
+        "age": " 27",
+        "technologies": "  c#, . net core mssql  ",
+        "location": "  farg'ona viloyati qo'qon sh  ",
+        "price": " tajribali ustoz bo'lsa",
+        "post_type": "teacher",
+        "date": "2022-03-29T20:59:43"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": " 500 000 ming sóm ",
+        "post_type": "teacher",
+        "date": "2022-03-30T19:59:41"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android, kotlin,  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-03-31T15:01:09"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c++, linux  ",
+        "location": "  toshkent   sh",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-03-31T21:00:21"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react. js, javascript  ",
+        "location": "  xorazm  ",
+        "price": " 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-03-31T21:00:21"
+    },
+    {
+        "age": " 17",
+        "technologies": "  1c dasturchi  ",
+        "location": "  toshkent sh  ",
+        "price": " 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-01T09:00:32"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " 20-100$ ",
+        "post_type": "teacher",
+        "date": "2022-04-01T21:00:32"
+    },
+    {
+        "age": " 20",
+        "technologies": "  drf, django rest framework  ",
+        "location": "  farg'ona  ",
+        "price": " 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-02T12:01:32"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, data analysis, data structures, scikit-learn, tensorflow, opencv  ",
+        "location": "  toshkent   sh",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-04-02T16:00:58"
+    },
+    {
+        "age": " 21",
+        "technologies": "  spring boot, spring cloud, spring security, kotlin  ",
+        "location": "  toshkent sh",
+        "price": " 0 - 600 uzs ",
+        "post_type": "teacher",
+        "date": "2022-04-03T21:00:11"
+    },
+    {
+        "age": " 17",
+        "technologies": "  ios developer, swift, objective c, flutter html, css, sass, bootstrap javascript, reactjs, redux, nextjs, graphql, angularjs, python, git, linux os  ",
+        "location": "  andijon vil. baliqchi tu  ",
+        "price": " 0$ ",
+        "post_type": "teacher",
+        "date": "2022-04-04T11:00:54"
+    },
+    {
+        "age": " 19",
+        "technologies": "  vuejs, vue router, vuex  ",
+        "location": "  toshkent sh  ",
+        "price": " 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-05T13:59:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, python pytest, selenium, appium  ",
+        "location": "  toshkent sh  ",
+        "price": " 50$-100$ ",
+        "post_type": "teacher",
+        "date": "2022-04-05T21:01:18"
+    },
+    {
+        "age": " 20",
+        "technologies": "  vuejs, javascript   ",
+        "location": "  toshkent sh  ",
+        "price": " 800 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-07T13:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-07T21:00:23"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, react, yii2  ",
+        "location": "  buxoro  ",
+        "price": " 300 000 ",
+        "post_type": "teacher",
+        "date": "2022-04-08T11:00:28"
+    },
+    {
+        "age": " 24",
+        "technologies": "  1c buxgalteriya  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-09T11:01:19"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java, kotlin   ",
+        "location": "  toshkent   sh",
+        "price": " 500 000 ming  ",
+        "post_type": "teacher",
+        "date": "2022-04-09T13:01:41"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django, flask, data science  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-10T16:05:05"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java, c++  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-10T18:01:47"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java, css  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-11T12:59:58"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python",
+        "location": "  toshkent sh",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-04-11T14:59:59"
+    },
+    {
+        "age": " 26",
+        "technologies": "  python, javascript, ruby, react   ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-11T16:59:58"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, react, jquery  ",
+        "location": "  fargʻona   ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-12T12:00:38"
+    },
+    {
+        "age": " 20",
+        "technologies": "  kiber xafsizlikni ",
+        "location": "  toshkent sh",
+        "price": " 200 000 mingdan ~ 1 milongacha ",
+        "post_type": "teacher",
+        "date": "2022-04-12T15:04:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh  ",
+        "price": " 200 000 ming",
+        "post_type": "teacher",
+        "date": "2022-04-13T12:01:29"
+    },
+    {
+        "age": " 24",
+        "technologies": "  django, drf, sql, postgresql, telegram bot  ",
+        "location": "  toshkent sh  ",
+        "price": " 400 000 + so'm",
+        "post_type": "teacher",
+        "date": "2022-04-13T16:01:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-13T20:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-14T14:01:59"
+    },
+    {
+        "age": " 15",
+        "technologies": "  html, css, javascript, reactjs, python  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-14T15:01:20"
+    },
+    {
+        "age": " 21",
+        "technologies": "  html, css, sass, bootstrap, javascript, webpack, typescript, reactjs, redux, redux toolkit  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 ming + ",
+        "post_type": "teacher",
+        "date": "2022-04-14T18:00:31"
+    },
+    {
+        "age": " 20",
+        "technologies": "  sass, bootstrap, javascript, react js, node js, python",
+        "location": "  toshkent sh",
+        "price": " 500 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-04-14T19:00:18"
+    },
+    {
+        "age": " 26",
+        "technologies": "  ios, swift, xcode  ",
+        "location": "  toshkent sh",
+        "price": " 200$ ",
+        "post_type": "teacher",
+        "date": "2022-04-14T19:05:14"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python  ",
+        "location": "  buxoro  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-14T20:01:11"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python  ",
+        "location": "  andijon   ",
+        "price": " 200-300uzs ",
+        "post_type": "teacher",
+        "date": "2022-04-14T21:00:21"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c++, c#, python  ",
+        "location": "  farg'ona  ",
+        "price": " 20$ -30$ ",
+        "post_type": "teacher",
+        "date": "2022-04-14T21:00:21"
+    },
+    {
+        "age": " 21",
+        "technologies": "  django, django rest-framework  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-15T13:01:10"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, data science, tarmoq adminstratorligi, c++ ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-15T16:00:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  java, kotlin, android ",
+        "location": "  toshkent   sh",
+        "price": " 500, 000  -800, 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-16T09:00:52"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-17T14:00:50"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java, oop, postgres sql, restapi, spring, spring security, swegger, telegram bot  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-17T16:00:05"
+    },
+    {
+        "age": " 40",
+        "technologies": "  java  ",
+        "location": "  germaniya  ",
+        "price": " 150$ - 200$ ",
+        "post_type": "teacher",
+        "date": "2022-04-18T16:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  c# va c++  ",
+        "location": "  andijon, namangan   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-18T19:00:27"
+    },
+    {
+        "age": " 16",
+        "technologies": "  kali linux terminal, parrot terminal  ",
+        "location": "  toshkent sh",
+        "price": " max: 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-04-20T10:01:27"
+    },
+    {
+        "age": " 28",
+        "technologies": "  flutter, dart  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-21T17:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  angular  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-22T12:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java, kotlin, android  ",
+        "location": "  surxondaryo ",
+        "price": " 300 000-1 000 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-04-25T19:59:58"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django, drf  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-27T11:00:57"
+    },
+    {
+        "age": " 17",
+        "technologies": "  c++, java, kotlin, android   ",
+        "location": "  farg ’ ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-28T11:05:03"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python oop, django, telegram bot  ",
+        "location": "  qashqadaryo  ",
+        "price": " $10-$30 ",
+        "post_type": "teacher",
+        "date": "2022-04-28T15:59:58"
+    },
+    {
+        "age": " 22",
+        "technologies": "  html, css, javascript, react, vuejs, redux",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-04-28T18:04:58"
+    },
+    {
+        "age": " 22",
+        "technologies": "  ios va android  ",
+        "location": "  toshkent sh",
+        "price": " 450,000 - 600,000 so'm",
+        "post_type": "teacher",
+        "date": "2022-04-30T11:00:38"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, react js, css3  ",
+        "location": "  andijon  ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-05-01T14:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, react, nodejs, yii2  ",
+        "location": "  buxoro  ",
+        "price": " 300 000 so`m ",
+        "post_type": "teacher",
+        "date": "2022-05-01T18:01:34"
+    },
+    {
+        "age": " 15",
+        "technologies": "  mongodb, express. js, react. js, node. js  ",
+        "location": "  xorazm",
+        "price": " 2500 00 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-06T12:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react js, node js  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-07T16:01:11"
+    },
+    {
+        "age": " 24",
+        "technologies": "  javascript, reactjs  ",
+        "location": "  andijon  ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-05-07T19:00:27"
+    },
+    {
+        "age": " 24",
+        "technologies": "  ios, swift, swiftui, uikit  ",
+        "location": "  koreya, seul  ",
+        "price": " 150$ ",
+        "post_type": "teacher",
+        "date": "2022-05-08T11:01:27"
+    },
+    {
+        "age": " 24",
+        "technologies": "  android  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-09T12:05:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  postgresql, sql ",
+        "location": "  toshkent sh",
+        "price": " 100$++ ",
+        "post_type": "teacher",
+        "date": "2022-05-09T14:05:06"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, javascript, jquery, sass, less, bootstrap, git, php, mysql, ruby",
+        "location": "  namangan   ",
+        "price": " 150 000 - 250 000 gacha ",
+        "post_type": "teacher",
+        "date": "2022-05-09T16:05:06"
+    },
+    {
+        "age": " 17",
+        "technologies": "  dart, flutter, algoritm  ",
+        "location": "  toshkent sh",
+        "price": " 25$ ",
+        "post_type": "teacher",
+        "date": "2022-05-10T16:01:36"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, javascript, reactjs, vuejs  ",
+        "location": "  toshkent sh",
+        "price": " 200. 000 - 300. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-10T21:00:42"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java, c++, mysql, spring boot, postgresql, lucidchart, git",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-11T19:01:17"
+    },
+    {
+        "age": " 16",
+        "technologies": "  android, kotlin  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-12T13:01:56"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java  ",
+        "location": "  samarqand",
+        "price": " 400 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-12T14:01:43"
+    },
+    {
+        "age": " 20",
+        "technologies": "  php, mysql, laravel   ",
+        "location": "  andijon  ",
+        "price": " 600 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-05-13T20:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, css, html  ",
+        "location": "  namangan  ",
+        "price": " 200-100$ (tajriba yuqori bo'lsa ++) ",
+        "post_type": "teacher",
+        "date": "2022-05-13T21:00:10"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, javascript, reactjs  ",
+        "location": "  andijon  ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-05-14T16:00:29"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, vuejs  ",
+        "location": "  toshkent shahar  ",
+        "price": " 100 000 so'm - 100$ gacha ",
+        "post_type": "teacher",
+        "date": "2022-05-15T12:00:33"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, nodejs  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-15T15:01:05"
+    },
+    {
+        "age": " 22",
+        "technologies": "  system adminstrator, cisco, linux  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-19T08:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  dart, flutter, android  ",
+        "location": "  farg'ona   ",
+        "price": " 25-35$ ",
+        "post_type": "teacher",
+        "date": "2022-05-19T13:04:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, bootstrap, jquery, javascript, webpack, php  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-19T15:00:27"
+    },
+    {
+        "age": " 35",
+        "technologies": "  qa engineer",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-19T16:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, javascript, bootstrap, gulp, jquery  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-19T17:05:09"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python",
+        "location": "  jizzax ",
+        "price": " 300 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-05-19T18:01:41"
+    },
+    {
+        "age": " 28",
+        "technologies": "  php, laravel, html, css, bootstrap, mysql, sql, javascript  ",
+        "location": "  toshkent   sh",
+        "price": " 500 000  - 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-19T19:05:07"
+    },
+    {
+        "age": " 20",
+        "technologies": "  swift, ios, uikit, coredata",
+        "location": "  toshkent sh",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-05-20T20:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react  ",
+        "location": "  namangan   ",
+        "price": " 0 - 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-21T12:05:06"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react, vue, node. js  ",
+        "location": "  andijon   ",
+        "price": " 600 000 so‘m ",
+        "post_type": "teacher",
+        "date": "2022-05-21T16:02:05"
+    },
+    {
+        "age": " 25",
+        "technologies": "  css, javascript, nodejs, kiber xavfsizlik  ",
+        "location": "  jizzax ",
+        "price": " 100 000 soʻm ",
+        "post_type": "teacher",
+        "date": "2022-05-21T17:05:09"
+    },
+    {
+        "age": " 29",
+        "technologies": "  flutter",
+        "location": "  andijon  ",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-05-21T18:00:28"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-22T13:01:38"
+    },
+    {
+        "age": " 28",
+        "technologies": "  javascript, reactjs  ",
+        "location": "  navoiy",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-22T15:00:33"
+    },
+    {
+        "age": " 20",
+        "technologies": "  java, spring jpa, jdbc, spring mvc, spring boot, postgresql, sql, angular, typescript, html, css, jwt, spring security.   ",
+        "location": "  toshkent sh, andijon",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-22T16:00:39"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, react, jquery  ",
+        "location": "  toshkent sh",
+        "price": " $100+ ",
+        "post_type": "teacher",
+        "date": "2022-05-22T16:05:10"
+    },
+    {
+        "age": " 15",
+        "technologies": "  html, css, bootstrap, sass, javascript, react, vue, typscript  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-22T17:05:07"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-23T21:01:45"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c#. net  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-24T10:02:30"
+    },
+    {
+        "age": " 16",
+        "technologies": "  ios  ",
+        "location": "  farg'ona",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-24T15:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c#. net  ",
+        "location": "  toshkent sh, andijon  ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-05-25T18:05:04"
+    },
+    {
+        "age": " 23",
+        "technologies": "  microservice  ",
+        "location": "  toshkent sh, buxoro  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-26T11:01:56"
+    },
+    {
+        "age": " 33",
+        "technologies": "  python, pandas, numpy  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-26T14:04:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh  ",
+        "price": " $10 - $40 ",
+        "post_type": "teacher",
+        "date": "2022-05-27T09:01:30"
+    },
+    {
+        "age": " 19",
+        "technologies": "  unity 2d 3d, c#  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-28T17:00:57"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, php, html, c++  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-28T21:00:18"
+    },
+    {
+        "age": " 27",
+        "technologies": "  devops, ci, cd, git, kubernets, docker, angular",
+        "location": "  toshkent sh",
+        "price": " 500. 000 - 1. 000. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-05-29T18:59:50"
+    },
+    {
+        "age": " 21",
+        "technologies": "  1c  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-29T20:59:51"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java, javascript  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-30T11:01:41"
+    },
+    {
+        "age": " 16",
+        "technologies": "  algoritm, python, c++ ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-05-30T17:01:54"
+    },
+    {
+        "age": " 20",
+        "technologies": "  c# asp. net core, postgresql  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-01T17:00:38"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": " 10-20$ ",
+        "post_type": "teacher",
+        "date": "2022-06-02T10:01:50"
+    },
+    {
+        "age": " 23",
+        "technologies": "  unreal engine, blueprint, c++  ",
+        "location": "  toshkent sh",
+        "price": " 100$-1000$ ",
+        "post_type": "teacher",
+        "date": "2022-06-02T13:02:05"
+    },
+    {
+        "age": " 25",
+        "technologies": "  devops  ",
+        "location": "  qashqadaryo   ",
+        "price": " 350 000 - 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-06-02T15:00:31"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, c++, c#, javascript  ",
+        "location": "  farģona ",
+        "price": " 300 000 - 400 000 sòm ",
+        "post_type": "teacher",
+        "date": "2022-06-02T18:05:06"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c++, python, javascript  ",
+        "location": "  surxondaryo  ",
+        "price": " 100. 000 - 350. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-06-02T19:00:59"
+    },
+    {
+        "age": " 16 yosh",
+        "technologies": "  java, kotlin, android   ",
+        "location": "  navoiy  ",
+        "price": " 300 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-06-03T18:59:59"
+    },
+    {
+        "age": " 24",
+        "technologies": "  cyber security, ethical hacking  ",
+        "location": "  samarqand  ",
+        "price": " 250 000 - 400 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-06-03T20:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  node js, postgresql, mongodb, express, javascript, typescript, nest js  ",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 - 600 000 s'om ",
+        "post_type": "teacher",
+        "date": "2022-06-04T11:00:48"
+    },
+    {
+        "age": " 17",
+        "technologies": "  react, git, javascript  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-05T11:05:07"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, react. js, next. js, redux, redux toolkit, typescript basic, graphql, git  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-05T21:00:11"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-06T17:00:55"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-08T14:05:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  dart, flutter  ",
+        "location": "  farg'ona  ",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-06-08T15:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, sql  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-08T16:00:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-09T12:05:10"
+    },
+    {
+        "age": " 18",
+        "technologies": "  flutter  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-10T11:00:10"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript, react. js",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-10T15:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java   ",
+        "location": "  andijon ",
+        "price": " 500 000 mingacha ",
+        "post_type": "teacher",
+        "date": "2022-06-10T15:04:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  flutter, dart  ",
+        "location": "  farg'ona  ",
+        "price": " 15$-30$ ",
+        "post_type": "teacher",
+        "date": "2022-06-10T17:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  postgresql  ",
+        "location": "  navoiy viloyati, xatirchi tumani  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-11T11:01:27"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, javascript   ",
+        "location": "  toshkent shahri  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-11T17:01:50"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, jquery, react, vue  ",
+        "location": "  jizzax shahar  ",
+        "price": " 250 ming",
+        "post_type": "teacher",
+        "date": "2022-06-11T21:00:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  html, css, sass, bootstrap, javascript, react js, git  ",
+        "location": "  xorazm   ",
+        "price": " 200 000 - 250 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-06-12T12:01:50"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django, telegram bot  ",
+        "location": "  fargʻona ",
+        "price": " 300 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-06-13T10:00:58"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java, kotlin, android   ",
+        "location": "  samarqand  ",
+        "price": " 400 000 ming  ",
+        "post_type": "teacher",
+        "date": "2022-06-13T15:05:11"
+    },
+    {
+        "age": " 23",
+        "technologies": "  cybersecurity  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-14T09:01:37"
+    },
+    {
+        "age": " 17",
+        "technologies": "  c#  ",
+        "location": "  rassiya  ",
+        "price": " 15-20$ oyiga ",
+        "post_type": "teacher",
+        "date": "2022-06-14T12:59:56"
+    },
+    {
+        "age": " 26",
+        "technologies": "  html, css, bootstrap, javascript, java, c++, c#, react, vue, vues, redux, sass, python, django, express, sql, mysql, php",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-14T14:00:01"
+    },
+    {
+        "age": " 25",
+        "technologies": "  java, kotlin  ",
+        "location": "  toshkent   sh",
+        "price": " 300 000 minggacha yana kelishiladi ",
+        "post_type": "teacher",
+        "date": "2022-06-14T16:01:24"
+    },
+    {
+        "age": " 34",
+        "technologies": "  html, css, bootstrap, javascript, python, django, telegram bot, c++  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-14T18:02:09"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, telegram bot, c++  ",
+        "location": "  samarqand ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-15T19:05:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  html, css, sass, bootstrap, javascript, react. js, node. js, mysql  ",
+        "location": "  farg'ona  ",
+        "price": " 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-06-16T10:00:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, php, html, javascript  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-16T11:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  ios, swift  ",
+        "location": "  andijon  ",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-06-16T19:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java, c++  ",
+        "location": "  andijon  ",
+        "price": " 250 000 - 300 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-06-17T15:04:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  dart, flutter  ",
+        "location": "  farg'ona  ",
+        "price": " $20 - $50 ",
+        "post_type": "teacher",
+        "date": "2022-06-17T16:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  flutter  ",
+        "location": "  tashkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-17T17:00:00"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, css, html, java, javascript, django, telegram bot, c++, bootstrap  ",
+        "location": "  samarqand ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-17T20:04:59"
+    },
+    {
+        "age": " 28",
+        "technologies": "  python, linux  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-18T12:01:45"
+    },
+    {
+        "age": " 45",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": " 300 000 - 400 000 ming ",
+        "post_type": "teacher",
+        "date": "2022-06-18T14:00:39"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react, node js  ",
+        "location": "  janubiy koreya  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-19T15:05:10"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, javascript  ",
+        "location": "  samarqand  ",
+        "price": " 40$",
+        "post_type": "teacher",
+        "date": "2022-06-19T16:00:34"
+    },
+    {
+        "age": " 18",
+        "technologies": "  react native, gulp, node js  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T10:01:06"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T10:05:02"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django ",
+        "location": "  surxondaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T10:59:57"
+    },
+    {
+        "age": " 16",
+        "technologies": "  flutter, android, java  ",
+        "location": "  samarqand ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T11:59:57"
+    },
+    {
+        "age": " 21",
+        "technologies": "  javascript, react, node js  ",
+        "location": "  janubiy koreya  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T12:04:57"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css javacript  ",
+        "location": "  toshkent vil bekobod  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T15:59:57"
+    },
+    {
+        "age": " 23",
+        "technologies": "  c, python, node js, typescript, sql, mongodb  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-20T17:59:56"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, javascript, java, html, php, css",
+        "location": "  samarqand",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-21T10:01:13"
+    },
+    {
+        "age": " 23",
+        "technologies": "  react  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-21T20:59:59"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript",
+        "location": "  jizzax ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-22T20:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, java, kotlin  ",
+        "location": "  surxondaryo",
+        "price": " 50-100$ ",
+        "post_type": "teacher",
+        "date": "2022-06-23T10:05:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  javascript, python, php, node js, telegram bot  ",
+        "location": "  samarqand ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-23T13:01:14"
+    },
+    {
+        "age": " 16",
+        "technologies": "  javascript, python, php, node js, telegram bot  ",
+        "location": "  samarqand  ",
+        "price": " 100 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-06-23T14:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, react. js  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-23T16:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  css, javascript, python, php",
+        "location": "  samarqand  ",
+        "price": " 100 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-06-23T17:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  unreal engine, unity  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-25T17:05:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  c++, python",
+        "location": "  jizzax   ",
+        "price": " 150. 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-06-26T12:00:13"
+    },
+    {
+        "age": " 22",
+        "technologies": "  node js, express js, mongodb",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-26T15:05:10"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-27T16:59:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, javascript  ",
+        "location": "  toshkent viloyati qibray tumani  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-28T14:05:05"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django, mysql  ",
+        "location": "  toshkent viloyati piskent tumani  ",
+        "price": " 200+ ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-06-28T21:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android, java, kotlin  ",
+        "location": "  farg'ona vil qo'qon sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-29T13:00:31"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python  ",
+        "location": "  andijon   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-06-30T18:59:57"
+    },
+    {
+        "age": " 22",
+        "technologies": "  javascript, react  ",
+        "location": "  andijon, farg'ona  ",
+        "price": " 300 000+ so'm  ",
+        "post_type": "teacher",
+        "date": "2022-07-01T14:00:40"
+    },
+    {
+        "age": " 25",
+        "technologies": "  java, kotlin, flutter  ",
+        "location": "  farg‘ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-02T21:00:10"
+    },
+    {
+        "age": " 27",
+        "technologies": "  react js, node js, express js, mangodb",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-02T21:00:10"
+    },
+    {
+        "age": " 23",
+        "technologies": "  html, css, sass, bootstrap, javascript  ",
+        "location": "  toshkent sh",
+        "price": " 0 - 50$ ",
+        "post_type": "teacher",
+        "date": "2022-07-02T21:00:10"
+    },
+    {
+        "age": " 31",
+        "technologies": "  python  ",
+        "location": "  navoiy  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-03T16:02:11"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, kotlin, java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-03T17:01:38"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react. js  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-04T09:02:02"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, javascript  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-07-05T09:05:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript  ",
+        "location": "  andijon ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-06T10:01:08"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-06T18:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java, c+++ ",
+        "location": "  andijon   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-06T20:04:59"
+    },
+    {
+        "age": " 25",
+        "technologies": "  go  ",
+        "location": "  toshkent viloyati, chinoz  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T10:05:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  android, kotlin, java  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T11:05:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, react, typescript",
+        "location": "  xorazm  ",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-07-07T12:05:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java, kotlin, android sdk  ",
+        "location": "  toshkent sh",
+        "price": " 30-50$ ",
+        "post_type": "teacher",
+        "date": "2022-07-07T15:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android, java, kotlin, socket, coroutines, rxjava, thread  ",
+        "location": "  xorazm ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T15:59:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T17:00:00"
+    },
+    {
+        "age": " 26",
+        "technologies": "  php, mysql, yii2, laravel  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T18:04:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, django  ",
+        "location": "  fargʻona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-07T18:59:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, django mysql  ",
+        "location": "  fargʻona   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-08T16:01:29"
+    },
+    {
+        "age": " 19",
+        "technologies": "  kiber havfsizlik  ",
+        "location": "  toshkent   sh",
+        "price": " 1000 $ ",
+        "post_type": "teacher",
+        "date": "2022-07-09T15:00:34"
+    },
+    {
+        "age": " 21",
+        "technologies": "  php, yii2  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-10T16:05:06"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript, vue. js, php, mysql  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-11T12:59:57"
+    },
+    {
+        "age": " 22",
+        "technologies": "  1c buxgalteriya  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-11T16:01:29"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, suniy intllekt  ",
+        "location": "  toshkent sh",
+        "price": " 70$ ",
+        "post_type": "teacher",
+        "date": "2022-07-12T19:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  django  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-12T20:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-13T12:01:06"
+    },
+    {
+        "age": " 25",
+        "technologies": "  html, css, scss, javascript, react, bootstrap, git  ",
+        "location": "  andijon, toshkent sh",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-07-14T11:00:20"
+    },
+    {
+        "age": " 20",
+        "technologies": "  php, laravel  ",
+        "location": "  sirdaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-14T19:05:04"
+    },
+    {
+        "age": " 22",
+        "technologies": "  1 c buxgalteriya  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-15T13:00:36"
+    },
+    {
+        "age": " 26",
+        "technologies": "  ios sdk, objective-c, mvp, mvvm, uikit, git, swiftui  ",
+        "location": "  toshkent sh",
+        "price": " 100~200 $ ",
+        "post_type": "teacher",
+        "date": "2022-07-15T19:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " 300 ming ",
+        "post_type": "teacher",
+        "date": "2022-07-16T13:04:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  java, spring  ",
+        "location": "  toshkent shahar  ",
+        "price": " amaliyot uchun",
+        "post_type": "teacher",
+        "date": "2022-07-17T09:02:01"
+    },
+    {
+        "age": " 17",
+        "technologies": "  vuejs, reactjs, nodejs, expressjs, mongodb, mongoose, typescript, webpack  ",
+        "location": "  toshkent shahar  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-17T19:01:06"
+    },
+    {
+        "age": " 21",
+        "technologies": "  nodejs, javascript, nest. js, posgresql, express, passport. js  ",
+        "location": "  toshkent sh  ",
+        "price": " 300 000 - 400 000 ",
+        "post_type": "teacher",
+        "date": "2022-07-18T21:01:02"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, gulp, lass, sass, tailwind, bootstrap, javascript, jquery  ",
+        "location": "  sirdaryo   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-19T11:00:33"
+    },
+    {
+        "age": " 20",
+        "technologies": "  go dasturlash tili  ",
+        "location": "  toshkent sh",
+        "price": " 30$ dan 50$ ",
+        "post_type": "teacher",
+        "date": "2022-07-20T09:01:40"
+    },
+    {
+        "age": " 26",
+        "technologies": "  tizim adminstratori  ",
+        "location": "  toshkent   sh",
+        "price": " 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-07-20T15:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, python, css, javascript, android  ",
+        "location": "  surxondaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-21T16:59:59"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, algoritim  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-21T21:00:15"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, c++, c#, java, python  ",
+        "location": "  surxondaryo, denov  ",
+        "price": " 200 000 - 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-07-22T12:01:35"
+    },
+    {
+        "age": " 25",
+        "technologies": "  jquery, redux, react-redux, git, react-roater, material ui, tailwind, nextjs, typescript, i18next  ",
+        "location": "  andijon, toshkent sh",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-07-22T14:01:51"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c++. python, django",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-23T16:00:00"
+    },
+    {
+        "age": " 25",
+        "technologies": "  flutter, dart  ",
+        "location": "  farg'ona ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-23T18:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  kiberxavfsizlik  ",
+        "location": "  toshkent sh",
+        "price": " 100-200 $ ",
+        "post_type": "teacher",
+        "date": "2022-07-23T19:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  cyber security, cisco networking, linux, cisco  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-25T10:01:08"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, sass, bootstrap, javascript, reackt, git",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-25T18:59:58"
+    },
+    {
+        "age": " 26",
+        "technologies": "  devops  ",
+        "location": "  toshkent sh",
+        "price": " 100$ - 200$ ",
+        "post_type": "teacher",
+        "date": "2022-07-26T18:01:13"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, django, django rest freamwork, sqlite, mysql  ",
+        "location": "  xorazm  ",
+        "price": " 300 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-07-26T21:01:26"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android, java, kotlin  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-27T11:01:57"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c, python, html, css  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "teacher",
+        "date": "2022-07-27T18:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, mysql, data science  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-28T16:59:58"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, django, telegram bot  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-28T17:59:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, kotlin, java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-29T09:05:02"
+    },
+    {
+        "age": " 47",
+        "technologies": "  php, laravel  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-29T20:01:35"
+    },
+    {
+        "age": " 16",
+        "technologies": "  dart, flutter, java, kotlin  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-29T21:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react, redux, next",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 +- so'm",
+        "post_type": "teacher",
+        "date": "2022-07-30T15:00:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  javascript, react, redux, next  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-31T10:05:07"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, scss, bootstrap5, javascript, php, laravel, telegram bot  ",
+        "location": "  toshkent sh",
+        "price": " 300 - 400 ming ",
+        "post_type": "teacher",
+        "date": "2022-07-31T16:00:40"
+    },
+    {
+        "age": " 24",
+        "technologies": "  qa, testirovshiklik  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-07-31T18:01:33"
+    },
+    {
+        "age": " 24",
+        "technologies": "  typescript, angular13, redux  ",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-08-01T16:00:35"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python, php  ",
+        "location": "  xorazm ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-01T17:01:17"
+    },
+    {
+        "age": " 17",
+        "technologies": "  python, django  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-02T09:17:14"
+    },
+    {
+        "age": " 19",
+        "technologies": "  nodejs, api, expressjs, reactjs, git  ",
+        "location": "  toshkent shahar  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-02T16:00:40"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java, css, node. js  ",
+        "location": "  surxondaryo ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-03T14:00:56"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, react redux  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-04T17:05:06"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, bootstrap, javascript  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-04T18:05:04"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, js",
+        "location": "  toshkent viloyati  ",
+        "price": " 800,000 so`m gacha ",
+        "post_type": "teacher",
+        "date": "2022-08-05T17:00:20"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, telegram bot ",
+        "location": "  namangan  ",
+        "price": " 400. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-08-07T09:01:29"
+    },
+    {
+        "age": " 15",
+        "technologies": "  c++, c#, flutter  ",
+        "location": "  buxoro",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-07T11:01:26"
+    },
+    {
+        "age": " 21",
+        "technologies": "  c++  ",
+        "location": "  sirdaryo viloyat, guliston shahar  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-07T20:05:08"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, java, kotlin  ",
+        "location": "  toshkent shahar  ",
+        "price": " 50$ - 300$ ",
+        "post_type": "teacher",
+        "date": "2022-08-08T10:02:12"
+    },
+    {
+        "age": " 20",
+        "technologies": "  tarmoq xafsizligi, keber xafsizlik  ",
+        "location": "  samarqand  ",
+        "price": " tulovga roziman ",
+        "post_type": "teacher",
+        "date": "2022-08-08T10:55:23"
+    },
+    {
+        "age": " 21",
+        "technologies": "  html, css, javascript, python, telegram bot.   ",
+        "location": "  andijon shahar  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-09T12:01:57"
+    },
+    {
+        "age": " 16",
+        "technologies": "  js, c, c++, pyhton  ",
+        "location": "  toshkent viloyati  ",
+        "price": " 200,000 - 500,000 ",
+        "post_type": "teacher",
+        "date": "2022-08-09T16:00:53"
+    },
+    {
+        "age": " 23",
+        "technologies": "  oracle  ",
+        "location": "  toshkent sh  ",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-08-09T16:00:53"
+    },
+    {
+        "age": " 15",
+        "technologies": "  java, vue. js, c#, unity, unreal engine game  ",
+        "location": "  buxoro   ",
+        "price": " 300$+ ",
+        "post_type": "teacher",
+        "date": "2022-08-10T17:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, bootstrap5, javascript, jquery  ",
+        "location": "  qashqadaryo   ",
+        "price": " 30$ - 50$ ",
+        "post_type": "teacher",
+        "date": "2022-08-11T14:05:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  ios   ",
+        "location": "  toshkent sh",
+        "price": " $50 - $80 ",
+        "post_type": "teacher",
+        "date": "2022-08-11T15:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, bootstrap, sass, javascript, react, next. js",
+        "location": "  xorazm  ",
+        "price": " 300 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-08-12T10:01:38"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, reactjs  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-13T10:00:24"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java, kotlin, android  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-13T14:00:45"
+    },
+    {
+        "age": " 17",
+        "technologies": "  c++, c#, unreal engine, blueprint, unity, python  ",
+        "location": "  buxoro  ",
+        "price": " 300 ming+ ",
+        "post_type": "teacher",
+        "date": "2022-08-13T16:00:58"
+    },
+    {
+        "age": " 33",
+        "technologies": "  javascript, typescript, nodejs  ",
+        "location": "  toshkent sh  ",
+        "price": " 100$",
+        "post_type": "teacher",
+        "date": "2022-08-14T11:00:59"
+    },
+    {
+        "age": " 15 ",
+        "technologies": "  telegram bot, python",
+        "location": "  samarqand viloyati qo'shrabot tumani  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-14T14:05:07"
+    },
+    {
+        "age": " 17",
+        "technologies": "  c++, c#, unreal engine, blueprint, unity, python  ",
+        "location": "  buxoro  ",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-08-14T19:05:07"
+    },
+    {
+        "age": " 20",
+        "technologies": "  ios  ",
+        "location": "  andijon   ",
+        "price": " 40$ - 60$ ",
+        "post_type": "teacher",
+        "date": "2022-08-15T13:01:54"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, reactjs, redux  ",
+        "location": "  surxondaryo  ",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-08-15T14:59:57"
+    },
+    {
+        "age": " 22",
+        "technologies": "  vue. js, typescript  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-16T18:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, bootstrap, sass, git, javascript",
+        "location": "  xorazm  ",
+        "price": " 300 000 - 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-08-17T10:05:08"
+    },
+    {
+        "age": " 25",
+        "technologies": "  ios sdk, mvp, mvvm, uikit, database, git, swiftui, solid  ",
+        "location": "  toshkent sh",
+        "price": " 100~200$ ",
+        "post_type": "teacher",
+        "date": "2022-08-17T11:05:08"
+    },
+    {
+        "age": " 16",
+        "technologies": "  swift, objektiv c  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-17T13:00:36"
+    },
+    {
+        "age": " 27",
+        "technologies": "  javascript, react, redux, html, css, bootstrap, git",
+        "location": "  qashqadaryo   ",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-08-18T16:00:42"
+    },
+    {
+        "age": " 24",
+        "technologies": "  react js  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-18T18:00:26"
+    },
+    {
+        "age": " 17",
+        "technologies": "  buxgalteriya 1c  ",
+        "location": "  toshkent sh  ",
+        "price": " 300 000 ming",
+        "post_type": "teacher",
+        "date": "2022-08-18T20:00:29"
+    },
+    {
+        "age": " 21",
+        "technologies": "  typescript, react native  ",
+        "location": "  qashqadaryo ",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-08-19T11:01:14"
+    },
+    {
+        "age": " 30",
+        "technologies": "  python, telegrambot  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-19T17:01:46"
+    },
+    {
+        "age": " 21",
+        "technologies": "  laravel  ",
+        "location": "  farg'ona   ",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-08-20T12:01:42"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java, c++, php  ",
+        "location": "  toshkent sh",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-08-20T16:01:27"
+    },
+    {
+        "age": " 22",
+        "technologies": "  1c buxgalteriya  ",
+        "location": "  andijon  ",
+        "price": " 500 ming som ",
+        "post_type": "teacher",
+        "date": "2022-08-20T18:01:59"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, react nextjs  ",
+        "location": "  xorazm   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-20T21:00:18"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-21T11:00:39"
+    },
+    {
+        "age": " 19",
+        "technologies": "  ios  ",
+        "location": "  toshkent sh",
+        "price": " $30-$80 ",
+        "post_type": "teacher",
+        "date": "2022-08-22T16:00:46"
+    },
+    {
+        "age": " 21",
+        "technologies": "  react js, react native  ",
+        "location": "  toshkent sh  ",
+        "price": " $20+  ",
+        "post_type": "teacher",
+        "date": "2022-08-22T17:00:10"
+    },
+    {
+        "age": " 29",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-22T19:00:35"
+    },
+    {
+        "age": " 25",
+        "technologies": "  ios, swift, xcode, git  ",
+        "location": "  toshkent sh",
+        "price": " ~100$ ",
+        "post_type": "teacher",
+        "date": "2022-08-23T15:01:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  html5, css, sass, bootstrap, javascript, react, redux, redux-toolkit, git,  postgresql  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-23T21:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  spring boot, spring security, hibernate, microservice  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-23T21:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java 8, kotlin, android, architecture components, mvvm, mvp, oop, git, hilt, sqlite, room, material design  ",
+        "location": "  toshkent sh",
+        "price": " 300$ ",
+        "post_type": "teacher",
+        "date": "2022-08-24T10:01:11"
+    },
+    {
+        "age": " 20",
+        "technologies": "  ios  ",
+        "location": "  andijon  ",
+        "price": " 30$ - 80$ ",
+        "post_type": "teacher",
+        "date": "2022-08-24T20:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  php, java, python  ",
+        "location": "  farg'ona  ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-08-24T21:00:16"
+    },
+    {
+        "age": " 16",
+        "technologies": "  c, python  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-25T10:01:41"
+    },
+    {
+        "age": " 18",
+        "technologies": "  java, kotlin  ",
+        "location": "  surxondaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-26T12:01:41"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, c++",
+        "location": "  namangan   ",
+        "price": " amaliyot uchun",
+        "post_type": "teacher",
+        "date": "2022-08-26T19:00:33"
+    },
+    {
+        "age": " 19",
+        "technologies": "  data science, sun'iy intellekt, machine learning  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-27T13:01:29"
+    },
+    {
+        "age": " 24",
+        "technologies": "  html, css, javascript, bootstrap, git, scss, react js  ",
+        "location": "  andijon   ",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-08-29T18:01:46"
+    },
+    {
+        "age": " 30",
+        "technologies": "  vue3, nuxt3, typescript, algaritm, javascript.   ",
+        "location": "  toshkent   sh",
+        "price": " 1 mln atrofida ",
+        "post_type": "teacher",
+        "date": "2022-08-30T09:00:00"
+    },
+    {
+        "age": " 28",
+        "technologies": "  java junit5, integration test, mock  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-30T11:04:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, boostrap, sass, javascript, react  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-31T11:05:07"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java, kotlin, android  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-31T17:05:09"
+    },
+    {
+        "age": " 23",
+        "technologies": "  go  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-08-31T18:05:09"
+    },
+    {
+        "age": " 30",
+        "technologies": "  javascript, typescript",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 atrofida",
+        "post_type": "teacher",
+        "date": "2022-09-01T17:59:57"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript",
+        "location": "  andijon   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-02T13:01:32"
+    },
+    {
+        "age": " 16",
+        "technologies": "  javascript, python, c++",
+        "location": "  samarqand   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-03T13:00:29"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript",
+        "location": "  andijon   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-03T15:00:44"
+    },
+    {
+        "age": " 20",
+        "technologies": "  flutter  ",
+        "location": "  samarqand  ",
+        "price": " 200 000 - 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-03T20:59:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  telegram bot, php, python",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-07T09:04:59"
+    },
+    {
+        "age": " 24",
+        "technologies": "  windows, linux server tizim andminstratorligi  ",
+        "location": "  toshkent sh",
+        "price": " 50$-100$ ",
+        "post_type": "teacher",
+        "date": "2022-09-07T11:05:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  android, kotlin, java, mvvm, di, sqlite",
+        "location": "  toshkent shahar, namangan  ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-09-07T11:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, spring boot, postgresql microservice  ",
+        "location": "  toshkent sh",
+        "price": " 200-450k ",
+        "post_type": "teacher",
+        "date": "2022-09-07T16:59:59"
+    },
+    {
+        "age": " 26",
+        "technologies": "  java, javascript, nodejs, python, django  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-07T20:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  java  ",
+        "location": "  farg'ona   ",
+        "price": " 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-08T16:00:00"
+    },
+    {
+        "age": " 32",
+        "technologies": "  html, css, javascript, python  ",
+        "location": "  andijon  ",
+        "price": " 1 000 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-08T21:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, sass, javascript",
+        "location": "  toshkent sh",
+        "price": " 500 000 - 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-09T16:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  php, yii2  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-09T20:59:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  javascript, html5, css3, bootstrap, tailwind, sass, git, redux  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-10T13:05:08"
+    },
+    {
+        "age": " 26",
+        "technologies": "  android  ",
+        "location": "  samarqand  ",
+        "price": " to'lov qilaman 3-5 mln ",
+        "post_type": "teacher",
+        "date": "2022-09-11T18:00:58"
+    },
+    {
+        "age": " 21",
+        "technologies": "  1c  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-12T10:05:09"
+    },
+    {
+        "age": " 28",
+        "technologies": "  javascript, react, angular, vuejs, typescript, node.js,   ",
+        "location": "  surxondaryo, termiz",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-12T14:01:40"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react ",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-14T13:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  qoraqalpoqiston respublikasi  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-14T15:05:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, bootstrap, sass, javascript, react, nextjs, git",
+        "location": "  xorazm  ",
+        "price": " 300-500 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-14T16:04:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  drf, django rest frmaework   ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-15T10:05:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  sql  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-15T11:05:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-15T17:00:00"
+    },
+    {
+        "age": " 17",
+        "technologies": "  cyber security, linux  ",
+        "location": "  jizzax   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-15T18:00:00"
+    },
+    {
+        "age": " 15",
+        "technologies": "  python, php, django, react  ",
+        "location": "  qashqadaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-15T19:05:09"
+    },
+    {
+        "age": " 15",
+        "technologies": "  html, css, sass, bootstrap, tailwind css, javascript, typescript, nextjs, angular, reactjs, vue, js therejs.   ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-16T12:01:21"
+    },
+    {
+        "age": " 24",
+        "technologies": "  vue js  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-17T11:00:53"
+    },
+    {
+        "age": " 20",
+        "technologies": "  java, spring  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-17T15:01:42"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, git, postgresql",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-17T21:00:11"
+    },
+    {
+        "age": " 25",
+        "technologies": "  vue, vuex",
+        "location": "  fargona  ",
+        "price": " 20 $ -50$ ",
+        "post_type": "teacher",
+        "date": "2022-09-17T21:00:11"
+    },
+    {
+        "age": " 32",
+        "technologies": "  java, javascript  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-18T17:01:13"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, javascript, reactjs, nodejs  ",
+        "location": "  samarqand",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-19T10:00:41"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html, css, javascript, bootstrap, react",
+        "location": "  toshkent viloyati  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-19T10:59:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  css, javascript, bootstrap, react, node. js, sass  ",
+        "location": "  toshkent viloyati  ",
+        "price": " 50$ - 60$ ",
+        "post_type": "teacher",
+        "date": "2022-09-19T13:00:38"
+    },
+    {
+        "age": " 19",
+        "technologies": "  react  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-21T14:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python, django, telegram bot, css  ",
+        "location": "  xorazm   ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-09-22T12:05:07"
+    },
+    {
+        "age": " 22",
+        "technologies": "  html, css, javascript  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-22T14:05:09"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, android   ",
+        "location": "  farğona  ",
+        "price": " 300 000 so'm gacha ",
+        "post_type": "teacher",
+        "date": "2022-09-22T18:05:08"
+    },
+    {
+        "age": " 20",
+        "technologies": "  c#, linq, entity framework, python  ",
+        "location": "  xorazm   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-23T09:00:03"
+    },
+    {
+        "age": " 25",
+        "technologies": "  bootstrap, javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-23T15:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  ios   ",
+        "location": "  toshkent sh",
+        "price": " 40$ atrofida ",
+        "post_type": "teacher",
+        "date": "2022-09-23T17:59:59"
+    },
+    {
+        "age": " 14",
+        "technologies": "  javascript, react js, next js  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-24T20:00:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  dart, flutter  ",
+        "location": "  andijon",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-24T21:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django, git, javascript, jquery, bootstrap, css, html sqlite  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-25T13:01:28"
+    },
+    {
+        "age": " 18",
+        "technologies": "  vue js  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-25T14:01:23"
+    },
+    {
+        "age": " 22",
+        "technologies": "  automation testing  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-25T14:05:09"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, scss, sass, bootstrap, tailwindcss, materialize, js6, vue  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-25T20:01:05"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, spring, sql, hibernate  ",
+        "location": "  samarqand  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-09-26T11:01:01"
+    },
+    {
+        "age": " 16",
+        "technologies": "  java, kotlin, android  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-26T14:00:16"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, kotlin  ",
+        "location": "  farg'ona vil, qo'qon   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-26T17:05:08"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java, spring, microservices, database  ",
+        "location": "  toshkent shahar  ",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-09-27T10:08:21"
+    },
+    {
+        "age": " 18",
+        "technologies": "  ios, swift  ",
+        "location": "  toshkent sh",
+        "price": " $100 - $200",
+        "post_type": "teacher",
+        "date": "2022-09-27T14:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  bootstrap, js, sass, vuejs, nodejs, mongodb   ",
+        "location": "  toshkent viloyati  ",
+        "price": " 50$ - 60$ ",
+        "post_type": "teacher",
+        "date": "2022-09-28T19:00:00"
+    },
+    {
+        "age": " 27",
+        "technologies": "  php, mysql  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-29T10:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  1c buxgalter ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-29T13:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  android  ",
+        "location": "  navoiy ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-29T20:05:09"
+    },
+    {
+        "age": " 20",
+        "technologies": "  react, javascript, redux  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-30T13:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  c#, . net  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-09-30T17:00:00"
+    },
+    {
+        "age": "",
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-01T10:45:38"
+    },
+    {
+        "age": " 30",
+        "technologies": "  javascript, react  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-01T11:01:55"
+    },
+    {
+        "age": " 21",
+        "technologies": "  unity, unreal, vr, ar, 3d animatsiya  ",
+        "location": "  jizzax  ",
+        "price": " 400 ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-10-01T11:05:04"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django, telegram bot  ",
+        "location": "  toshkent   sh",
+        "price": " 50$ dan  ",
+        "post_type": "teacher",
+        "date": "2022-10-02T12:00:36"
+    },
+    {
+        "age": " 28",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-02T16:00:41"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, javascript, sass, scss, bootstrap, jquery, reactjs, python  ",
+        "location": "  farg'ona   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-02T18:00:36"
+    },
+    {
+        "age": " 21",
+        "technologies": "  1 с  ",
+        "location": "  jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-02T19:01:43"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, react js, css",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-03T13:00:38"
+    },
+    {
+        "age": " 19",
+        "technologies": "  data sciense, sun'iy intellekt, python   ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-04T15:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django, git, javascript, jquery, bootstrap, css, html sqlite  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-04T19:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  1 c, buxgalteriya  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-05T09:05:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  php",
+        "location": "  fargʻona viloyati uchkoʻprik tumani  ",
+        "price": " 1. 500. 00 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-05T13:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python  ",
+        "location": "  farg'ona vil qo`qon sh ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-05T15:05:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  tarmoq administratorligi  ",
+        "location": "  toshkent sh",
+        "price": " 50$ - 60$ ",
+        "post_type": "teacher",
+        "date": "2022-10-05T18:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, postgresql  ",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-06T14:05:12"
+    },
+    {
+        "age": " 23",
+        "technologies": "  docker, celery, redis, rabbitmq  ",
+        "location": "  toshkent sh  ",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-10-07T15:59:59"
+    },
+    {
+        "age": " 25",
+        "technologies": "  java, spring, microservices  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-07T16:59:59"
+    },
+    {
+        "age": " 35",
+        "technologies": "  node. js, express. js  ",
+        "location": "  toshkent   sh",
+        "price": " 500 000 ",
+        "post_type": "teacher",
+        "date": "2022-10-08T13:02:09"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, python, java, c#  ",
+        "location": "  jizzax  ",
+        "price": " 350. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-08T13:05:04"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django, html, oop, aiogram, sqlite  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-08T16:01:49"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python, c++, electronics, stm32, machine learning, iot, robotics",
+        "location": "  samarqand",
+        "price": " +100, 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-10-09T17:04:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, bootstrap, javascript, vue js  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-09T19:04:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-10T17:01:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html, css, sass, scss, javascript, react js, react  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-10T18:00:08"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, python   ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-10T19:00:39"
+    },
+    {
+        "age": " 20",
+        "technologies": "  go  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-11T10:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  bootsrap, javascript, nodejs, gulp, react  ",
+        "location": "  toshkent sh",
+        "price": " 3 000 000 + so'm",
+        "post_type": "teacher",
+        "date": "2022-10-11T13:00:00"
+    },
+    {
+        "age": " 26",
+        "technologies": "  1c",
+        "location": "  toshkent viloyati  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-11T14:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  ios, swift  ",
+        "location": "  toshkent sh",
+        "price": " 100$ - 200$ gacha ",
+        "post_type": "teacher",
+        "date": "2022-10-12T15:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  react. js  ",
+        "location": "  toshkent sh",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-13T14:04:58"
+    },
+    {
+        "age": " 22",
+        "technologies": "  python, django, telegram bot  ",
+        "location": "  toshkent sh",
+        "price": " 50$+ ",
+        "post_type": "teacher",
+        "date": "2022-10-13T16:04:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react, redux, next  ",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 gacha ",
+        "post_type": "teacher",
+        "date": "2022-10-13T17:04:59"
+    },
+    {
+        "age": " 17",
+        "technologies": "  dart, flutter  ",
+        "location": "  navoiy   ",
+        "price": " 0-100 ming ",
+        "post_type": "teacher",
+        "date": "2022-10-13T19:04:59"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, telegram bot  ",
+        "location": "  fargʻona   ",
+        "price": " 40$+ ",
+        "post_type": "teacher",
+        "date": "2022-10-14T18:05:09"
+    },
+    {
+        "age": " 21",
+        "technologies": "  spring microservices, docker, tomcat, kafka, rabbitmq   ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-14T21:00:30"
+    },
+    {
+        "age": " 17",
+        "technologies": "  javascript, react, ruby, c  ",
+        "location": "  toshkent sh",
+        "price": " 200 - 300 ming ",
+        "post_type": "teacher",
+        "date": "2022-10-15T11:00:24"
+    },
+    {
+        "age": " 28",
+        "technologies": "  flutter, bloc  ",
+        "location": "  toshkent sh",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-10-16T16:01:39"
+    },
+    {
+        "age": " 23",
+        "technologies": "  1c  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-16T19:01:27"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, django, aiogram  ",
+        "location": "  toshkent sh  ",
+        "price": " 400 ming ",
+        "post_type": "teacher",
+        "date": "2022-10-17T12:59:57"
+    },
+    {
+        "age": " 37",
+        "technologies": "  java, spring framework, postgresql",
+        "location": "  qoraqalpoqiston beruniy  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-18T19:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  mongodb, nodejs, javascript   ",
+        "location": "  toshkent vil, zangiota tumani",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-20T12:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python ,  data science, ai  ",
+        "location": "  toshkent sh",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-21T13:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-21T17:05:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java, javascript",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-23T13:00:38"
+    },
+    {
+        "age": " 19",
+        "technologies": "  django",
+        "location": "  toshkent   sh",
+        "price": " 60$ - 70$ ",
+        "post_type": "teacher",
+        "date": "2022-10-23T18:01:45"
+    },
+    {
+        "age": " 24",
+        "technologies": "  python ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-24T10:59:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c++  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-24T11:59:58"
+    },
+    {
+        "age": " 18",
+        "technologies": "  phyton, php, java, c++, c#, nodejs  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-24T13:04:58"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-24T13:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python ,  aiogram  ",
+        "location": "  toshkent sh  ",
+        "price": " 50-60$ ",
+        "post_type": "teacher",
+        "date": "2022-10-25T09:01:08"
+    },
+    {
+        "age": " 35",
+        "technologies": "  c#, c++, oop, webmvc, html, css, bootstrap, desktop, telegram bot, sqllite, sql, postgressql, asp. net, entity  ",
+        "location": "  andijon  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-26T13:04:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html5, css3, sass, jquery, bootstrap, javascript, react js, vue js, typescript",
+        "location": "  toshkent viloyati, o'rta chirchiq tumani   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-26T15:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  arduino, micropython",
+        "location": "  sirdaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-26T16:04:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django, telegram bot, postgresql  ",
+        "location": "  qashqadaryo  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-26T19:05:08"
+    },
+    {
+        "age": " 21",
+        "technologies": "  1 c buxgalteriya  ",
+        "location": "  toshkent sh, jizzax  ",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-10-26T20:02:11"
+    },
+    {
+        "age": " 19",
+        "technologies": "  c, python, html, css, c#  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun",
+        "post_type": "teacher",
+        "date": "2022-10-26T21:00:33"
+    },
+    {
+        "age": " 19",
+        "technologies": "  php, yii2, mysql, postgresql  ",
+        "location": "  toshkent shahar yunusobod tumani  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-27T09:01:47"
+    },
+    {
+        "age": " 18",
+        "technologies": "  html5, css3, bootstrap, javascript, jquery, vuejs, vue-router, vue x, vuetify, git, python, postgresql, telegram bot, linux",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-27T15:01:59"
+    },
+    {
+        "age": " 23",
+        "technologies": "  nodejs  ",
+        "location": "  qashqadaryo  ",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-28T13:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  html5, css3, bootstrap, sass, javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": " 300 ming ",
+        "post_type": "teacher",
+        "date": "2022-10-29T13:01:36"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java  ",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-10-29T14:01:41"
+    },
+    {
+        "age": " 23",
+        "technologies": "  c++  ",
+        "location": "  toshkent, qashqadaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-10-30T16:00:48"
+    },
+    {
+        "age": " 27",
+        "technologies": "  aws, ansible, terraform, linux, github, kubernetes,   ",
+        "location": "  toshkent viloyat  ",
+        "price": " $100 - $300 ",
+        "post_type": "teacher",
+        "date": "2022-10-30T17:02:04"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  xorazm  ",
+        "price": " 100ming - 200ming ",
+        "post_type": "teacher",
+        "date": "2022-10-30T21:00:23"
+    },
+    {
+        "age": " 22",
+        "technologies": "  vue js, vuex",
+        "location": "  toshkent sh",
+        "price": " 50$ ",
+        "post_type": "teacher",
+        "date": "2022-10-31T16:59:58"
+    },
+    {
+        "age": " 24",
+        "technologies": "  oracle   ",
+        "location": "  toshkent  ",
+        "price": " 200 000+ so'm",
+        "post_type": "teacher",
+        "date": "2022-10-31T20:59:58"
+    },
+    {
+        "age": " 27",
+        "technologies": "  c#, xammarin  ",
+        "location": "  toshkent   sh",
+        "price": " 300. 000 + so'm",
+        "post_type": "teacher",
+        "date": "2022-10-31T20:59:58"
+    },
+    {
+        "age": " 16",
+        "technologies": "  cyber security, python",
+        "location": "  surxondaryo termiz  ",
+        "price": " 400 ming ",
+        "post_type": "teacher",
+        "date": "2022-11-01T13:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  go  ",
+        "location": "  toshkent sh, qashqadaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-02T13:59:59"
+    },
+    {
+        "age": " 43",
+        "technologies": "  1c buxgalteriyada ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-02T15:59:59"
+    },
+    {
+        "age": " 18",
+        "technologies": "  go  ",
+        "location": "  qashqadaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-03T15:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java, android  ",
+        "location": "  samarqand   ",
+        "price": " 35$ - 40$ ",
+        "post_type": "teacher",
+        "date": "2022-11-03T20:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  go  ",
+        "location": "  qashqadaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-04T13:01:08"
+    },
+    {
+        "age": " 27",
+        "technologies": "  c#  ",
+        "location": "  toshkent   sh",
+        "price": " 300. 000 so'm + ",
+        "post_type": "teacher",
+        "date": "2022-11-04T21:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  java spring boot spring",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-05T13:00:59"
+    },
+    {
+        "age": " 14",
+        "technologies": "  python, telegram-bot  ",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-11-05T17:00:43"
+    },
+    {
+        "age": " 22",
+        "technologies": "  c#. asp. net, . net core  ",
+        "location": "  toshkent sh",
+        "price": " 80-100$ ",
+        "post_type": "teacher",
+        "date": "2022-11-05T18:01:22"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-06T13:02:04"
+    },
+    {
+        "age": " 16",
+        "technologies": "  python  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-06T21:00:16"
+    },
+    {
+        "age": " 20",
+        "technologies": "  flutter ",
+        "location": "  surxondaryo  ",
+        "price": " 200-300 ming ",
+        "post_type": "teacher",
+        "date": "2022-11-07T11:01:39"
+    },
+    {
+        "age": " 18",
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-07T15:01:21"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-08T15:00:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  cisco, ccna, windows server, linux server  ",
+        "location": "  toshkent sh, samarqand, jizzax  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-08T16:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  arduino  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-08T17:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  flutter  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-08T18:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html5, css3, sass, bootstrap, javascript, react js, react native, node js,   ",
+        "location": "  surxondaryo, toshkent sh, samarqand  ",
+        "price": " 100$+ ",
+        "post_type": "teacher",
+        "date": "2022-11-11T19:59:58"
+    },
+    {
+        "age": " 30",
+        "technologies": "  react  ",
+        "location": "  samarqand  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-11T19:59:59"
+    },
+    {
+        "age": " 31",
+        "technologies": "  python  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-11T19:59:59"
+    },
+    {
+        "age": " 33",
+        "technologies": "  java, c++, c#  ",
+        "location": "  namangan   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-12T10:59:57"
+    },
+    {
+        "age": " 16",
+        "technologies": "  cyber security, linux, wapt, ehtical hacking, pentesting  ",
+        "location": "  toshkent   sh",
+        "price": " 50$ - 100$ ",
+        "post_type": "teacher",
+        "date": "2022-11-12T11:59:57"
+    },
+    {
+        "age": " 17",
+        "technologies": "  c++, c#, python  ",
+        "location": "  xorazm viloyati  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-13T09:00:36"
+    },
+    {
+        "age": " 33",
+        "technologies": "  1c",
+        "location": "  qashqadaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-13T10:00:33"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-13T15:01:30"
+    },
+    {
+        "age": " 19",
+        "technologies": "  android ",
+        "location": "  samarqand ",
+        "price": " 200 - 400 ming ",
+        "post_type": "teacher",
+        "date": "2022-11-14T11:01:49"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html5, css, javascript, bootstrap, react, scss, sass  ",
+        "location": "  xorazm   ",
+        "price": " 10$ - 20$ ",
+        "post_type": "teacher",
+        "date": "2022-11-14T15:00:00"
+    },
+    {
+        "age": " 22",
+        "technologies": "  vue js, nuxt js, vuex  ",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-11-15T12:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  typescript, react js, react native  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-15T14:59:59"
+    },
+    {
+        "age": " 22",
+        "technologies": "  1c buxgalteriya  ",
+        "location": "  andijon  ",
+        "price": " 500 ming so'm ",
+        "post_type": "teacher",
+        "date": "2022-11-15T18:01:38"
+    },
+    {
+        "age": " 20",
+        "technologies": "  dart, flutter  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-15T18:05:10"
+    },
+    {
+        "age": " 23",
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh  ",
+        "price": " 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-11-16T18:00:00"
+    },
+    {
+        "age": " 23",
+        "technologies": "  java, python  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-17T10:01:16"
+    },
+    {
+        "age": " 23",
+        "technologies": "  php, laravel, mysql  ",
+        "location": "  toshkent shahar  ",
+        "price": " 800 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-11-17T11:01:52"
+    },
+    {
+        "age": " 20",
+        "technologies": "  с#  ",
+        "location": "  samarqand",
+        "price": " 500 000 + so'm",
+        "post_type": "teacher",
+        "date": "2022-11-17T16:00:00"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, django  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-17T19:00:00"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, javascript, css, telegram bot, django  ",
+        "location": "  qashqadaryo",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-17T19:05:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript, react",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-18T17:59:59"
+    },
+    {
+        "age": " 21",
+        "technologies": "  next js, react js  ",
+        "location": "  farg’ona  ",
+        "price": " 1. 000. 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-11-19T16:05:01"
+    },
+    {
+        "age": " 23",
+        "technologies": "  flutter  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-19T20:05:00"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python, django, sqlite3, postgrsql, mysql, tkinter, git  ",
+        "location": "  samarqand  ",
+        "price": " amaliyot ",
+        "post_type": "teacher",
+        "date": "2022-11-19T21:00:15"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c#  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun",
+        "post_type": "teacher",
+        "date": "2022-11-21T17:00:00"
+    },
+    {
+        "age": " 25",
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " 300 ming ",
+        "post_type": "teacher",
+        "date": "2022-11-21T18:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  android, java  ",
+        "location": "  toshkent sh",
+        "price": " 300 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-11-22T18:01:59"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java, javafx",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-22T19:00:45"
+    },
+    {
+        "age": " 25",
+        "technologies": "  html5, css, javascript, python   ",
+        "location": "  buxoro   ",
+        "price": " 400 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-11-23T10:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  css, javascript, jquery  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-23T13:00:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  javascript, vuejs, vuex  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-23T21:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, suniy intellekt  ",
+        "location": "  toshkent sh",
+        "price": " 200-300 ming ",
+        "post_type": "teacher",
+        "date": "2022-11-23T21:00:00"
+    },
+    {
+        "age": " 29",
+        "technologies": "  python, django  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-24T15:00:00"
+    },
+    {
+        "age": " 20",
+        "technologies": "  android, kotlin  ",
+        "location": "  toshkent   sh",
+        "price": " $100 ",
+        "post_type": "teacher",
+        "date": "2022-11-25T09:01:55"
+    },
+    {
+        "age": " 19",
+        "technologies": "  html5, css3, react, git, node js, php  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-11-30T16:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  react js, react native, bootstrap, git, tailwaind, next js, vuejs",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-01T16:00:00"
+    },
+    {
+        "age": " 24",
+        "technologies": "  c++, java  ",
+        "location": "  toshkent   sh",
+        "price": " 100$ ",
+        "post_type": "teacher",
+        "date": "2022-12-02T16:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  go, c#, python  ",
+        "location": "  toshkent viloyati  ",
+        "price": " 500 ming so'm atrofida ",
+        "post_type": "teacher",
+        "date": "2022-12-02T21:00:00"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c#. net  ",
+        "location": "  toshkent sh  ",
+        "price": " 200 000 so'm",
+        "post_type": "teacher",
+        "date": "2022-12-03T11:01:29"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript  ",
+        "location": "  qoraqalpoqiston",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-03T15:01:47"
+    },
+    {
+        "age": " 18",
+        "technologies": "  c++, python, javascript  ",
+        "location": "  sirdaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-03T21:01:27"
+    },
+    {
+        "age": " 21",
+        "technologies": "  python  ",
+        "location": "  andijon  ",
+        "price": " 300 000 - 450 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-12-04T17:01:50"
+    },
+    {
+        "age": " 19",
+        "technologies": "  javascript, react, redux, typescript  ",
+        "location": "  xorazm  ",
+        "price": " 60$ ",
+        "post_type": "teacher",
+        "date": "2022-12-04T20:00:15"
+    },
+    {
+        "age": " 24",
+        "technologies": "  android, java, kotlin  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-05T17:00:00"
+    },
+    {
+        "age": " 13",
+        "technologies": "  linux ,  python  ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-07T11:02:01"
+    },
+    {
+        "age": " 22",
+        "technologies": "  ios, swift  ",
+        "location": "  buxoro  ",
+        "price": " 30$ ",
+        "post_type": "teacher",
+        "date": "2022-12-09T17:02:06"
+    },
+    {
+        "age": " 19",
+        "technologies": "  java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-10T16:05:04"
+    },
+    {
+        "age": " 20",
+        "technologies": "  javascript, reactjs   ",
+        "location": "  namangan   ",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-12-10T20:05:05"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django, drf, telegram bot, sqlite, postgresql, git, deploy, html5, css3, basic  ",
+        "location": "  farg'ona  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-11T13:01:53"
+    },
+    {
+        "age": " 19",
+        "technologies": "  spring boot, postgresql, java, git  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun ",
+        "post_type": "teacher",
+        "date": "2022-12-11T14:00:05"
+    },
+    {
+        "age": " 17",
+        "technologies": "  java  ",
+        "location": "  xorazm  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-11T15:02:09"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, bootstrap, javascript, reactjs  ",
+        "location": "  andijon viloyati asaka tumani  ",
+        "price": " amaliyot qilishim kerak ",
+        "post_type": "teacher",
+        "date": "2022-12-12T17:59:58"
+    },
+    {
+        "age": " 26",
+        "technologies": "  php, oop",
+        "location": "  andijon ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-13T15:00:00"
+    },
+    {
+        "age": " 16",
+        "technologies": "  html, css, scss, bootstrap, python, aiogram javascript, git, postgresql  ",
+        "location": "  toshkent sh",
+        "price": " $50 ",
+        "post_type": "teacher",
+        "date": "2022-12-13T20:01:48"
+    },
+    {
+        "age": " 20",
+        "technologies": "  ciber security  ",
+        "location": "  qashqadaryo  ",
+        "price": " $100+ ",
+        "post_type": "teacher",
+        "date": "2022-12-14T11:00:17"
+    },
+    {
+        "age": " 24",
+        "technologies": "  sql, python  ",
+        "location": "  qashqadaryo  ",
+        "price": " 300 - 400 ming ",
+        "post_type": "teacher",
+        "date": "2022-12-14T13:05:03"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, django  ",
+        "location": "  samarqand  ",
+        "price": " 20$ ",
+        "post_type": "teacher",
+        "date": "2022-12-14T21:00:53"
+    },
+    {
+        "age": " 22",
+        "technologies": "  yii2, php  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-15T13:01:15"
+    },
+    {
+        "age": " 20",
+        "technologies": "  html, css, sass, git, bootstrap, javascript  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-15T14:01:08"
+    },
+    {
+        "age": " 24",
+        "technologies": "  java  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-15T16:00:53"
+    },
+    {
+        "age": " 20",
+        "technologies": "  php, yii2, sql  ",
+        "location": "  surxondaryo  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-16T14:00:29"
+    },
+    {
+        "age": " 18",
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent   sh",
+        "price": " 300 000 - 500 000 so'm ",
+        "post_type": "teacher",
+        "date": "2022-12-17T14:01:54"
+    },
+    {
+        "age": " 17",
+        "technologies": "  html, css, java  ",
+        "location": "  surxondaryo  ",
+        "price": " tekin ",
+        "post_type": "teacher",
+        "date": "2022-12-18T11:00:10"
+    },
+    {
+        "age": " 23",
+        "technologies": "  node js ",
+        "location": "  qashqadaryo  ",
+        "price": " 300 000 ming + ",
+        "post_type": "teacher",
+        "date": "2022-12-19T12:00:31"
+    },
+    {
+        "age": " 12",
+        "technologies": "  go, flutter   ",
+        "location": "  toshkent sha",
+        "price": " 40$ ",
+        "post_type": "teacher",
+        "date": "2022-12-20T17:59:59"
+    },
+    {
+        "age": " 20",
+        "technologies": "  python, javascript  ",
+        "location": "  jizzax ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-21T11:01:45"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django  ",
+        "location": "  namangan ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-21T12:00:23"
+    },
+    {
+        "age": " 19",
+        "technologies": "  python, django  ",
+        "location": "  namangan   ",
+        "price": " 300 000 so'm +",
+        "post_type": "teacher",
+        "date": "2022-12-21T12:59:59"
+    },
+    {
+        "age": " 28",
+        "technologies": "  nestjs, typescript  ",
+        "location": "  toshkent   sh",
+        "price": " $60 - $70 ",
+        "post_type": "teacher",
+        "date": "2022-12-22T10:01:36"
+    },
+    {
+        "age": " 20",
+        "technologies": "  telegram bot, php  ",
+        "location": "  farg'ona   ",
+        "price": " 10+$ ",
+        "post_type": "teacher",
+        "date": "2022-12-23T15:59:59"
+    },
+    {
+        "age": " 14",
+        "technologies": "  java, kotlin, dart  ",
+        "location": "  samarqand   ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-24T11:01:44"
+    },
+    {
+        "age": " 19",
+        "technologies": "  flutter  ",
+        "location": "  toshkent sh  ",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-24T12:01:46"
+    },
+    {
+        "age": " 20",
+        "technologies": "  kiber xavfsizlik  ",
+        "location": "  qashqadaryo  ",
+        "price": " 100$ + ",
+        "post_type": "teacher",
+        "date": "2022-12-27T10:59:59"
+    },
+    {
+        "age": " 19",
+        "technologies": "  unity 3d, 2d, c#",
+        "location": " toshkent shahar ",
+        "price": " $200 ",
+        "post_type": "teacher",
+        "date": "2022-12-28T12:00:48"
+    },
+    {
+        "age": " 26",
+        "technologies": "  php, laravel, vue js",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-30T11:00:33"
+    },
+    {
+        "age": " 25",
+        "technologies": "  python, django, postgresql, git, docker ",
+        "location": "  toshkent   sh",
+        "price": "",
+        "post_type": "teacher",
+        "date": "2022-12-30T12:00:00"
+    }
+]

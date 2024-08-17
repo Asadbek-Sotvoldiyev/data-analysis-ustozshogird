@@ -1,0 +1,1500 @@
+[
+    {
+        "technologies": "  javascript, react, redux, nodejs, graphql, git  ",
+        "location": "  toshkent sh  ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-01-03T09:01:13"
+    },
+    {
+        "technologies": "  c#, java",
+        "location": "  farg'ona  ",
+        "price": " tekin  ",
+        "post_type": "partner",
+        "date": "2022-01-03T10:00:05"
+    },
+    {
+        "technologies": "  python, mysql, telegram bot, docker, django, html, css, javascript  ",
+        "location": "  xorazm  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-03T12:00:22"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  namangan   ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-05T11:00:00"
+    },
+    {
+        "technologies": "  java, kotlin, android  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-05T20:59:58"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react js, c++  ",
+        "location": "  toshkent sh",
+        "price": " bepul hamkorlik asosida ",
+        "post_type": "partner",
+        "date": "2022-01-06T13:01:19"
+    },
+    {
+        "technologies": "  javascript, reactjs, nodejs, graphql, git  ",
+        "location": "  qashqadaryo ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-06T19:00:25"
+    },
+    {
+        "technologies": "  android, ios  ",
+        "location": "  toshkent vil",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-07T18:59:59"
+    },
+    {
+        "technologies": "  javascript,  b ootstrap, css, python  ",
+        "location": "  andijon  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-08T20:59:58"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  farg'ona   ",
+        "price": " 100$++ ",
+        "post_type": "partner",
+        "date": "2022-01-10T18:00:00"
+    },
+    {
+        "technologies": "  python, html, css, java  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-12T13:59:58"
+    },
+    {
+        "technologies": "  java, spring framework  ",
+        "location": "  toshkent shahar  ",
+        "price": " tekin, amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-01-13T21:00:18"
+    },
+    {
+        "technologies": "  php mysql  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-14T16:59:59"
+    },
+    {
+        "technologies": "  javascript, react, nodejs, express, mongodb ",
+        "location": "  namangan  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-15T09:00:26"
+    },
+    {
+        "technologies": "  html, css, javascript, reactjs  ",
+        "location": "  samarqand  ",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-01-16T15:00:00"
+    },
+    {
+        "technologies": "  php, mysql  ",
+        "location": "  farg'ona  ",
+        "price": " tajriba alishish va yaxshi sherik ortirish ",
+        "post_type": "partner",
+        "date": "2022-01-18T12:01:25"
+    },
+    {
+        "technologies": "  java, spring framework  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-19T11:01:27"
+    },
+    {
+        "technologies": "  reactjs, tailwindcss  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-20T15:59:59"
+    },
+    {
+        "technologies": "  python, html, css, javascript   ",
+        "location": "  qashqadaryo ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-01-21T18:00:07"
+    },
+    {
+        "technologies": "  laravel, php, mysql, git, html, css  ",
+        "location": "  toshkent sh",
+        "price": " sheriklikka ",
+        "post_type": "partner",
+        "date": "2022-01-23T14:59:51"
+    },
+    {
+        "technologies": "  react  ",
+        "location": "  farg'ona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-25T16:04:59"
+    },
+    {
+        "technologies": "  html, css, javascript, python  ",
+        "location": "  andijon  ",
+        "price": " bepul ",
+        "post_type": "partner",
+        "date": "2022-01-25T17:04:59"
+    },
+    {
+        "technologies": "  python, php, html, css, bootstrap, javascript, react  ",
+        "location": "  namangan   ",
+        "price": " teng sherikchilik asosida ",
+        "post_type": "partner",
+        "date": "2022-01-27T17:01:10"
+    },
+    {
+        "technologies": "  python, sqlite3, mysql  ",
+        "location": "  toshkent vil",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-01-28T17:00:00"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, react, redux  ",
+        "location": "  farg'ona  ",
+        "price": " xozircha tekin ",
+        "post_type": "partner",
+        "date": "2022-01-31T16:00:00"
+    },
+    {
+        "technologies": "  kotlin, android  ",
+        "location": "  andijon   ",
+        "price": " bepul ",
+        "post_type": "partner",
+        "date": "2022-01-31T17:00:00"
+    },
+    {
+        "technologies": "  python   ",
+        "location": "  toshkent viloyati  ",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-02-02T13:00:00"
+    },
+    {
+        "technologies": "  html, css, javascript, rextjs, git, php, nodejs, java, c#  ",
+        "location": "  farg`ona  ",
+        "price": " 300$+",
+        "post_type": "partner",
+        "date": "2022-02-06T21:02:05"
+    },
+    {
+        "technologies": "  javascript, react, redux, next. js, vue  ",
+        "location": "  farg'ona   ",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-02-06T21:02:05"
+    },
+    {
+        "technologies": "  bootstrap, javascript, react, php, laravel,   ",
+        "location": "  farg'ona vil qoqon sh  ",
+        "price": " 100$++ ",
+        "post_type": "partner",
+        "date": "2022-02-08T10:05:00"
+    },
+    {
+        "technologies": "  html, css, js, jquery, bootstrapt, vue js  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-08T12:00:58"
+    },
+    {
+        "technologies": "  html5, css3, javascript, php, mysql, git, github  ",
+        "location": "  surxondaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-09T10:00:59"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  navoiy viloyati, zarafshon sh",
+        "price": " 0$ ",
+        "post_type": "partner",
+        "date": "2022-02-09T13:00:00"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  namangan  ",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-02-11T21:00:00"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-02-11T21:00:00"
+    },
+    {
+        "technologies": "  python, telegram bot  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-12T10:59:58"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  samarqand",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-13T20:02:02"
+    },
+    {
+        "technologies": "  python django  ",
+        "location": "  toshkent sh  ",
+        "price": " 50/50 ",
+        "post_type": "partner",
+        "date": "2022-02-13T21:00:35"
+    },
+    {
+        "technologies": "  android sdk, java, sqlite, firebase  ",
+        "location": "  xorazm  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-15T11:00:22"
+    },
+    {
+        "technologies": "  html, css, javascript, vue, bootstrap sass  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-17T11:01:53"
+    },
+    {
+        "technologies": "  python, django, django rest framework, postgresql  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-21T21:00:40"
+    },
+    {
+        "technologies": "  php, python",
+        "location": "  samarqand  ",
+        "price": " amaliyot uchun",
+        "post_type": "partner",
+        "date": "2022-02-28T10:59:57"
+    },
+    {
+        "technologies": "  c#, c, python, . net, wpf, entityframework, mysql, sqlserver, postgresql, pyqt5  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-02-28T12:59:57"
+    },
+    {
+        "technologies": "  python drf, websocket, celery, mqtt protocol  ",
+        "location": "  farg'ona  ",
+        "price": " 300$ ",
+        "post_type": "partner",
+        "date": "2022-03-01T17:02:07"
+    },
+    {
+        "technologies": "  java script, react js, html, css, bootstrap  ",
+        "location": "  jizzax  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-03T21:01:21"
+    },
+    {
+        "technologies": "  java, android  ",
+        "location": "  andijon  ",
+        "price": " 100$+ ",
+        "post_type": "partner",
+        "date": "2022-03-04T20:00:55"
+    },
+    {
+        "technologies": "  python. php. c++  ",
+        "location": "  samarqand  ",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-03-07T14:59:55"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-09T20:00:29"
+    },
+    {
+        "technologies": "  python, django, front-end  ",
+        "location": "  qashqadaryo  ",
+        "price": " $500+",
+        "post_type": "partner",
+        "date": "2022-03-13T18:02:23"
+    },
+    {
+        "technologies": "  php (oop), mysql  ",
+        "location": "  farg'ona shahar  ",
+        "price": " bepul ",
+        "post_type": "partner",
+        "date": "2022-03-21T14:00:53"
+    },
+    {
+        "technologies": "  python, html, css, bootstrap, sass",
+        "location": "  andijon ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-23T09:59:59"
+    },
+    {
+        "technologies": "  java, spring boot, postgresql,  git  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-24T16:05:34"
+    },
+    {
+        "technologies": "  javascript, php, mysql, css, jquery, bootstrap5  ",
+        "location": "  xorazm  ",
+        "price": " boshlanishiga tekin vaqti oʻtishu bilan foydaga qarab xisob kitob qilamiz ",
+        "post_type": "partner",
+        "date": "2022-03-25T12:00:00"
+    },
+    {
+        "technologies": "  java, android   ",
+        "location": "  samarqand  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-25T14:00:00"
+    },
+    {
+        "technologies": "  kali linux, cisco, tarmoq hafsizligi, malumotlar ombor hafsizligi, eticla hacking, attack hacking  ",
+        "location": "  toshkent  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-25T17:00:00"
+    },
+    {
+        "technologies": "  java, kotlin, android, firebase, sqlite, room, jetpack navigation component, git",
+        "location": "  buxoro   ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-26T13:02:09"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-27T14:59:59"
+    },
+    {
+        "technologies": "  reactjs  ",
+        "location": "  toshkent shahar  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-28T12:59:44"
+    },
+    {
+        "technologies": "  html, css, javascript, react, vuejs, bootstrap  ",
+        "location": "  farg'ona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-03-29T14:59:43"
+    },
+    {
+        "technologies": "  python, pyqt5, qtquick, qml",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-01T21:00:32"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, vue. js, php, mysql, laravel  ",
+        "location": "  jizzax ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-02T10:05:07"
+    },
+    {
+        "technologies": "  c#  ",
+        "location": "  toshkent viloyati  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-03T21:00:11"
+    },
+    {
+        "technologies": "  php, mysql, javascript  ",
+        "location": "  qashqadaryo  ",
+        "price": " tajriba uchun ",
+        "post_type": "partner",
+        "date": "2022-04-09T21:00:19"
+    },
+    {
+        "technologies": "  typescript, node js, expressjs, mongodb  ",
+        "location": "  farg'ona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-10T13:05:10"
+    },
+    {
+        "technologies": "  php, mysql, javascript, html, css  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-14T21:00:21"
+    },
+    {
+        "technologies": "  java, oop, telegrambot",
+        "location": "  toshkent shahar  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-18T21:00:36"
+    },
+    {
+        "technologies": "  ios, swift  ",
+        "location": "  andijon  ",
+        "price": " 100$+ ",
+        "post_type": "partner",
+        "date": "2022-04-20T14:00:00"
+    },
+    {
+        "technologies": "  python, django, sqlite3, javascript, html5, css3, bootstrap",
+        "location": "  farg'ona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-24T13:00:32"
+    },
+    {
+        "technologies": "  php, laravel, java spring, nodejs  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-24T19:00:41"
+    },
+    {
+        "technologies": "  java, c++, python  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-04-29T10:00:00"
+    },
+    {
+        "technologies": "  python, django, drf, mysql  ",
+        "location": "  farg'ona  ",
+        "price": " hamkorlik ",
+        "post_type": "partner",
+        "date": "2022-04-29T20:05:00"
+    },
+    {
+        "technologies": "  python, ai, c ++  ",
+        "location": "  qashqadaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-05-02T12:00:40"
+    },
+    {
+        "technologies": "  python, django, sql  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun (portfolio) ",
+        "post_type": "partner",
+        "date": "2022-05-05T19:02:01"
+    },
+    {
+        "technologies": "  html, css, javascript, python, bootstrap, reactjs  ",
+        "location": "  qashqadaryo  ",
+        "price": " 350$ + ",
+        "post_type": "partner",
+        "date": "2022-05-10T20:00:57"
+    },
+    {
+        "technologies": "  python, telegram bot  ",
+        "location": "  qashqadaryo  ",
+        "price": " bepul va portfollio uchun ",
+        "post_type": "partner",
+        "date": "2022-05-12T21:00:26"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-05-13T14:59:58"
+    },
+    {
+        "technologies": "  flutter, android, ios  ",
+        "location": "  toshkent sh  ",
+        "price": " $200 ",
+        "post_type": "partner",
+        "date": "2022-05-14T15:00:23"
+    },
+    {
+        "technologies": "  php, laravel, mysql, bootstrap  ",
+        "location": " farg'ona vil  qo'qon sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-05-17T10:04:59"
+    },
+    {
+        "technologies": "  javascript, react  ",
+        "location": "  samarqand   ",
+        "price": " sheriklikka ",
+        "post_type": "partner",
+        "date": "2022-05-23T19:01:29"
+    },
+    {
+        "technologies": "  php, python, mysql",
+        "location": "  andijon  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-05-25T11:00:31"
+    },
+    {
+        "technologies": "  java, c++, c#, python, swift, html, javascript  ",
+        "location": "  farg'ona   ",
+        "price": " 500$ ",
+        "post_type": "partner",
+        "date": "2022-05-26T19:05:00"
+    },
+    {
+        "technologies": "  computer science, dart, flutter, hive, bloc, vim, unix, git",
+        "location": "  samarqand  ",
+        "price": " tekin (portfolio uchun) ",
+        "post_type": "partner",
+        "date": "2022-05-28T11:00:28"
+    },
+    {
+        "technologies": "  javascript, react  ",
+        "location": "  namangan  ",
+        "price": " 10$ ",
+        "post_type": "partner",
+        "date": "2022-06-02T20:59:43"
+    },
+    {
+        "technologies": "  python, django, postgresql, dart, flutter, linux  ",
+        "location": "  farg'ona qo'qon  ",
+        "price": " $0 ",
+        "post_type": "partner",
+        "date": "2022-06-04T17:02:08"
+    },
+    {
+        "technologies": "  python, pyside2, qml, javascript, sql, django rest  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-05T15:00:41"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-06-05T20:01:15"
+    },
+    {
+        "technologies": "  python, java, c++  ",
+        "location": "  jizzax  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-05T21:00:12"
+    },
+    {
+        "technologies": "  html, css, bulma, javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " 300$ - 400$ ",
+        "post_type": "partner",
+        "date": "2022-06-06T12:00:58"
+    },
+    {
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent   sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-11T21:00:59"
+    },
+    {
+        "technologies": "  python, telegram bot, html, c++  ",
+        "location": "  samarqand ",
+        "price": " sherik bilan birga dastur tuzamiz ",
+        "post_type": "partner",
+        "date": "2022-06-13T17:05:11"
+    },
+    {
+        "technologies": "  html, css, javascript, jquery, react  ",
+        "location": "  farg'ona  ",
+        "price": " free of charge ",
+        "post_type": "partner",
+        "date": "2022-06-19T16:05:04"
+    },
+    {
+        "technologies": "  python sqlite3 django drf  ",
+        "location": "  samarqand  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-20T14:04:57"
+    },
+    {
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  farg'ona   ",
+        "price": " tekin partfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-06-20T18:04:57"
+    },
+    {
+        "technologies": "  javascript, reactjs, nodejs, expressjs   ",
+        "location": "  qashqadaryo  ",
+        "price": " tekin, loyihadan puli ishlash mumkin ",
+        "post_type": "partner",
+        "date": "2022-06-20T18:59:57"
+    },
+    {
+        "technologies": "  django",
+        "location": "  toshkent   sh",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-06-21T09:01:22"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, react js, vue js  ",
+        "location": "  buxoro  ",
+        "price": " 110$ ",
+        "post_type": "partner",
+        "date": "2022-06-21T20:59:59"
+    },
+    {
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-23T19:00:00"
+    },
+    {
+        "technologies": "  machine learning, python, deep learning, data science, nlp, data visualization  ",
+        "location": "  toshkent sha",
+        "price": " $0+ ",
+        "post_type": "partner",
+        "date": "2022-06-25T11:05:00"
+    },
+    {
+        "technologies": "  java, kotlin, android  ",
+        "location": "  toshkent sh",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-06-26T09:05:02"
+    },
+    {
+        "technologies": "  java, nodejs, python, php  ",
+        "location": "  toshkent shahar  ",
+        "price": " portfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-06-27T19:00:00"
+    },
+    {
+        "technologies": "  html, css, javascript, reactjs",
+        "location": "  toshkent viloyati piskent tumani  ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-06-28T21:00:00"
+    },
+    {
+        "technologies": "  java, spring boot, postgresql, html, css  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-06-30T15:01:14"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap, javascript, jquery, react  ",
+        "location": "  samarqand  ",
+        "price": " boshlanishiga 0$ keyinchalik 200$ ga ha ",
+        "post_type": "partner",
+        "date": "2022-07-01T17:00:14"
+    },
+    {
+        "technologies": "  javascript, html, css, node. js  ",
+        "location": "  toshkent   sh",
+        "price": " 0 so'm ",
+        "post_type": "partner",
+        "date": "2022-07-02T13:01:40"
+    },
+    {
+        "technologies": "  dart, flutter  ",
+        "location": "  andijon  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-02T21:00:10"
+    },
+    {
+        "technologies": "  vue. js  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-05T12:00:00"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  fargʻona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-09T13:00:32"
+    },
+    {
+        "technologies": "  bootstrap, javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-10T12:00:42"
+    },
+    {
+        "technologies": "  kotlin, android studio  ",
+        "location": "  buxoro ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-11T10:59:57"
+    },
+    {
+        "technologies": "  python 3, django rest framework, postgresql  ",
+        "location": "  farg'ona  ",
+        "price": " amaliyot ",
+        "post_type": "partner",
+        "date": "2022-07-14T17:00:00"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-14T19:00:20"
+    },
+    {
+        "technologies": "  java, android, sdk, clean code, sqlite room, git, kotlin  ",
+        "location": "  xorazm",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-15T16:05:11"
+    },
+    {
+        "technologies": "  python, django, telegram bot, sql",
+        "location": "  farg'ona  ",
+        "price": " $100  ",
+        "post_type": "partner",
+        "date": "2022-07-16T15:04:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react, angular, vue, nextjs  ",
+        "location": "  toshkent viloyati  ",
+        "price": " 100$ ",
+        "post_type": "partner",
+        "date": "2022-07-21T21:00:14"
+    },
+    {
+        "technologies": "  html, css, javascript, sass, less, bootstrap, reactjs  ",
+        "location": "  jizzax  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-23T10:00:29"
+    },
+    {
+        "technologies": "  react, javascript  ",
+        "location": "  toshkent shahar  ",
+        "price": " portfolia uchun ",
+        "post_type": "partner",
+        "date": "2022-07-28T17:04:58"
+    },
+    {
+        "technologies": "  laravel 8. x, php 7+, vue, html, css, javascript ",
+        "location": "  toshkent sh",
+        "price": " $500+ ",
+        "post_type": "partner",
+        "date": "2022-07-29T15:00:42"
+    },
+    {
+        "technologies": "  django, python  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-07-31T13:00:47"
+    },
+    {
+        "technologies": "  react, redux, javascript, nextjs, git",
+        "location": "  toshkent sh  ",
+        "price": " tekin, tajriba oshirish uchun ",
+        "post_type": "partner",
+        "date": "2022-07-31T16:05:06"
+    },
+    {
+        "technologies": "  html, scss, sass, bootstrap, javascript, php  ",
+        "location": "  xorazm  ",
+        "price": " boshlanishiga tekin ",
+        "post_type": "partner",
+        "date": "2022-08-02T19:00:47"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  xorazm  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-02T19:00:47"
+    },
+    {
+        "technologies": "  javascript, react, redux  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-04T10:02:02"
+    },
+    {
+        "technologies": "  dart, flutter  ",
+        "location": "  namangan  ",
+        "price": " tekin  ",
+        "post_type": "partner",
+        "date": "2022-08-04T12:01:27"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  toshkent sh  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-05T13:02:05"
+    },
+    {
+        "technologies": "  html, css javascript, python  ",
+        "location": "  qashqadaryo   ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-07T14:01:19"
+    },
+    {
+        "technologies": "  javascript, react  ",
+        "location": "  farg'ona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-07T15:01:42"
+    },
+    {
+        "technologies": "  html, css, js, jquery, reactjs, redux, git, bootstrap, tailwindcss, daisyui, sass, scss",
+        "location": "  toshkent sh  ",
+        "price": " 300$+ ",
+        "post_type": "partner",
+        "date": "2022-08-07T20:01:31"
+    },
+    {
+        "technologies": "  html, css, js, jquery, dom  ",
+        "location": "  toshkent sh   ",
+        "price": " tekin. kelishib ishlaymiz.",
+        "post_type": "partner",
+        "date": "2022-08-09T13:00:16"
+    },
+    {
+        "technologies": "  react, node. js  ",
+        "location": "  toshkent shahar  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-09T13:00:16"
+    },
+    {
+        "technologies": "  python, php, nodejs, grafik dizayn, moution dizayn, 3d, video maker  ",
+        "location": "  toshkent viloyati  ",
+        "price": " tekin. boshlangich tekin ",
+        "post_type": "partner",
+        "date": "2022-08-09T13:00:16"
+    },
+    {
+        "technologies": "  python, telegram bot  ",
+        "location": "  samarqand viloyati qo'shrabot tumani  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-09T13:00:16"
+    },
+    {
+        "technologies": "  html, css, javascript, php  ",
+        "location": "  samarqand  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-17T10:01:42"
+    },
+    {
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  namangan   ",
+        "price": " 5$+ ",
+        "post_type": "partner",
+        "date": "2022-08-17T12:05:08"
+    },
+    {
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " amailiyot uchun ",
+        "post_type": "partner",
+        "date": "2022-08-19T14:00:28"
+    },
+    {
+        "technologies": "  react, javascript  ",
+        "location": "  toshkent   sh",
+        "price": " portfolia uchun ",
+        "post_type": "partner",
+        "date": "2022-08-19T18:01:04"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap, less, javascript, react js",
+        "location": "  andijon   ",
+        "price": " 100$ ",
+        "post_type": "partner",
+        "date": "2022-08-20T21:00:18"
+    },
+    {
+        "technologies": "  javascript, react js, node js  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-21T13:00:34"
+    },
+    {
+        "technologies": "  html, css, git, bootstrap, javascript  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-22T20:01:02"
+    },
+    {
+        "technologies": "  html, css, javascript, nodejs, expressjs, mongodb, postgresql, git",
+        "location": "  qashqadaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-27T10:01:34"
+    },
+    {
+        "technologies": "  html, css, bootstrap, scss, git, javascript, tailwind  ",
+        "location": "  toshkent sh",
+        "price": " tekin, birgalikda portfolio tayyorlaymiz ",
+        "post_type": "partner",
+        "date": "2022-08-27T19:59:59"
+    },
+    {
+        "technologies": "  nodejs, python, oop  ",
+        "location": "  qashqadaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-08-28T10:02:09"
+    },
+    {
+        "technologies": "  react, material ui  ",
+        "location": "  farg'ona  ",
+        "price": " amaliyot uchun",
+        "post_type": "partner",
+        "date": "2022-08-28T15:00:16"
+    },
+    {
+        "technologies": "  react",
+        "location": "  toshkent   sh",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-08-30T19:04:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap 5, git, javascript, react js  ",
+        "location": "  sirdaryo viloyati, guliston sh",
+        "price": " portfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-08-31T19:00:16"
+    },
+    {
+        "technologies": "  android ",
+        "location": "  toshkent   sh",
+        "price": " 100$ + ",
+        "post_type": "partner",
+        "date": "2022-09-03T12:02:02"
+    },
+    {
+        "technologies": "  html, css, javascript, react  ",
+        "location": "  namangan  ",
+        "price": " boshiha tekin keyin $3+ ",
+        "post_type": "partner",
+        "date": "2022-09-04T14:00:24"
+    },
+    {
+        "technologies": "  html, css, javascript, scss, bootstrap, python, react  ",
+        "location": "  farg'ona  ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-09-06T17:05:06"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  germaniya  ",
+        "price": " tekin bo'lsa yaxshi bo'lardi ",
+        "post_type": "partner",
+        "date": "2022-09-07T16:04:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap, react js, node js, expressjs, mongodb  ",
+        "location": "  jizzax   ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-09-08T13:05:00"
+    },
+    {
+        "technologies": "  c#  ",
+        "location": "  toshkent sh",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-09-09T14:00:00"
+    },
+    {
+        "technologies": "  javascript, react, html, css, bootstrap  ",
+        "location": "  toshkent sh, andijon  ",
+        "price": " portfolio ko'tarish ",
+        "post_type": "partner",
+        "date": "2022-09-09T16:05:00"
+    },
+    {
+        "technologies": "  python",
+        "location": "  farg'ona ",
+        "price": " jamoa uchun tekinga ",
+        "post_type": "partner",
+        "date": "2022-09-09T19:00:00"
+    },
+    {
+        "technologies": "  html5, css3, javascript, reactjs  ",
+        "location": "  samarqand, farg'ona  ",
+        "price": " $0 ",
+        "post_type": "partner",
+        "date": "2022-09-11T19:01:53"
+    },
+    {
+        "technologies": "  react  ",
+        "location": "  samarqand  ",
+        "price": " sherikchilik asosida ",
+        "post_type": "partner",
+        "date": "2022-09-12T12:00:04"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  farg'ona  ",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-09-12T12:00:04"
+    },
+    {
+        "technologies": "  python, django, ai",
+        "location": "  samarqand viloyati  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-09-12T17:05:05"
+    },
+    {
+        "technologies": "  flutter  ",
+        "location": "  toshkent sh  ",
+        "price": " sheriklika",
+        "post_type": "partner",
+        "date": "2022-09-15T12:00:00"
+    },
+    {
+        "technologies": "  python, django, mysql, aiogram  ",
+        "location": "  toshkent   sh",
+        "price": " portfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-09-15T19:00:48"
+    },
+    {
+        "technologies": "  c#, postgresql  ",
+        "location": "  toshkent sh  ",
+        "price": " 100$ ",
+        "post_type": "partner",
+        "date": "2022-09-17T21:00:11"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react  ",
+        "location": "  andijon  ",
+        "price": " 300$+ ",
+        "post_type": "partner",
+        "date": "2022-09-19T09:01:45"
+    },
+    {
+        "technologies": "  html, css, javascript, es6+, vue, react, angular, bootstrap, material ui  ",
+        "location": "  buxoro  ",
+        "price": " 150$ - 500$ ",
+        "post_type": "partner",
+        "date": "2022-09-19T17:00:43"
+    },
+    {
+        "technologies": "  nodejs, php, python  ",
+        "location": "  farg'ona   ",
+        "price": " tekin amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-09-21T16:59:58"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrup, scss  ",
+        "location": "  andijon ",
+        "price": " tekin, tajriba orttirishga ",
+        "post_type": "partner",
+        "date": "2022-09-22T14:00:57"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, react js  ",
+        "location": "  farg'ona   ",
+        "price": " tekin amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-09-23T11:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react, node js, postgres ",
+        "location": "  toshkent   sh",
+        "price": " amaliyot uchun",
+        "post_type": "partner",
+        "date": "2022-09-25T16:05:05"
+    },
+    {
+        "technologies": "  react   ",
+        "location": "  toshkent   sh",
+        "price": " amaliyot uchun",
+        "post_type": "partner",
+        "date": "2022-09-25T17:05:05"
+    },
+    {
+        "technologies": "  html, css, javascript, jquery, reactjs, vuejs, git redux, redux-toolkit  ",
+        "location": "  xorazm  ",
+        "price": " 200$ - 800$ ",
+        "post_type": "partner",
+        "date": "2022-09-28T17:04:59"
+    },
+    {
+        "technologies": "  javascript, react, node, mongodb  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-09-30T17:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, reactjs, git  ",
+        "location": "  farg'ona   ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-10-01T16:05:04"
+    },
+    {
+        "technologies": "  html, html5, css, css3, css, scss, sass, javascript, git  ",
+        "location": "  surxondaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-02T10:01:26"
+    },
+    {
+        "technologies": "  node, mongodb",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-03T09:01:58"
+    },
+    {
+        "technologies": "  nodejs, mongodb, expressjs  ",
+        "location": "  tashkent viloyati angren sh",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-10-03T14:00:31"
+    },
+    {
+        "technologies": "  javascript, react  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-05T11:01:37"
+    },
+    {
+        "technologies": "  devops  ",
+        "location": "  xorazm  ",
+        "price": " 200$+ ",
+        "post_type": "partner",
+        "date": "2022-10-10T15:05:00"
+    },
+    {
+        "technologies": "  react, vue. js  ",
+        "location": "  surxondaryo",
+        "price": " amalyotga",
+        "post_type": "partner",
+        "date": "2022-10-11T20:59:59"
+    },
+    {
+        "technologies": "  react, redux  ",
+        "location": "  andijon  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-13T16:04:58"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, react. js  ",
+        "location": "  farg'ona viloyati qo'qon sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-13T17:59:59"
+    },
+    {
+        "technologies": "  c#, asp. net core entitiy, postgresql, mvc  ",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-17T10:59:57"
+    },
+    {
+        "technologies": "  html, css, javascript, redux, bootstrap  ",
+        "location": "  toshkent sh  ",
+        "price": " sheriklik ",
+        "post_type": "partner",
+        "date": "2022-10-18T20:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, vuejs  ",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "partner",
+        "date": "2022-10-23T14:00:20"
+    },
+    {
+        "technologies": "  dart, flutter  ",
+        "location": "  buxoro  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-24T20:59:58"
+    },
+    {
+        "technologies": "  python, django, drf, postgresql, sqlite, git, html, css  ",
+        "location": "  farg'ona   ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-26T15:04:59"
+    },
+    {
+        "technologies": "  html5, css3, bootstrap, sass, javascript, jquery, git, react, redux, hooks, next js, react native",
+        "location": "  toshkent sh",
+        "price": " bepul(sheriklikga) ",
+        "post_type": "partner",
+        "date": "2022-10-27T21:00:00"
+    },
+    {
+        "technologies": "  html css, tailwind css, javascript, react. js next. js  ",
+        "location": "  toshkent   sh",
+        "price": " tekin, amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-10-29T21:01:04"
+    },
+    {
+        "technologies": "  html, css, javascript, react-js  ",
+        "location": "  qo'qon  ",
+        "price": " agar project qse olngan pul qancha bolishidan qat'iy nazar ortaga bolinadi ",
+        "post_type": "partner",
+        "date": "2022-10-30T21:00:22"
+    },
+    {
+        "technologies": "  java, spring boot, postgrsql, security  ",
+        "location": "  toshkent sh, farg'ona vil qo'qon   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-10-31T17:59:58"
+    },
+    {
+        "technologies": "  python",
+        "location": "  buxoro  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-11-01T21:00:01"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, sass, php  ",
+        "location": "  fargʻona  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-11-03T12:59:59"
+    },
+    {
+        "technologies": "  data science, deep learning, opencv  ",
+        "location": "  toshkent sh",
+        "price": " 500$ - 1000$ ",
+        "post_type": "partner",
+        "date": "2022-11-03T18:00:00"
+    },
+    {
+        "technologies": "  nodejs, postgresql, mysql",
+        "location": "  toshkent   sh",
+        "price": " portfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-11-03T19:00:00"
+    },
+    {
+        "technologies": "  html, css, javascript, php  ",
+        "location": "  andijon  ",
+        "price": " shunchaki menga takrorlash, mustahkamlash, yangi doʻst topish ",
+        "post_type": "partner",
+        "date": "2022-11-03T21:00:00"
+    },
+    {
+        "technologies": "  java, android ",
+        "location": "  buxoro  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-11-06T11:01:41"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, vue, react  ",
+        "location": "  toshkent   sh",
+        "price": " tekin  ",
+        "post_type": "partner",
+        "date": "2022-11-06T21:00:16"
+    },
+    {
+        "technologies": "  c#, . net mvc entitiyfremwork, posgresql, html css bootstrap  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-11-07T16:01:25"
+    },
+    {
+        "technologies": "  angular  ",
+        "location": "  qashqadaryo",
+        "price": " 150$ ",
+        "post_type": "partner",
+        "date": "2022-11-09T14:59:59"
+    },
+    {
+        "technologies": "  laravel 9, java  ",
+        "location": "  sirdaryo ",
+        "price": " tekin",
+        "post_type": "partner",
+        "date": "2022-11-09T18:59:59"
+    },
+    {
+        "technologies": "  html5, css, scss, bootstrap5, javascript, vuejs",
+        "location": "  toshkent sh",
+        "price": " 100$ ",
+        "post_type": "partner",
+        "date": "2022-11-10T12:00:00"
+    },
+    {
+        "technologies": "  html, css, scss, javascript, react, nodejs  ",
+        "location": "  surxondaryo  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-11-11T19:59:58"
+    },
+    {
+        "technologies": "  php, mysql, yii1  ",
+        "location": "  toshkent   sh",
+        "price": " 50$ ",
+        "post_type": "partner",
+        "date": "2022-11-13T11:00:00"
+    },
+    {
+        "technologies": "  python, telegram bot, django, html, git  ",
+        "location": "  farg'ona   ",
+        "price": " 200$+ ",
+        "post_type": "partner",
+        "date": "2022-11-13T12:00:10"
+    },
+    {
+        "technologies": "  python ,  telegram bot",
+        "location": "  farg'ona  ",
+        "price": " xozir portfolio uchun ",
+        "post_type": "partner",
+        "date": "2022-11-17T21:00:00"
+    },
+    {
+        "technologies": "  javascript, reactjs, nodejs, expressjs, mongodb, postgresql  ",
+        "location": "  qashqadaryo  ",
+        "price": " tekin, pul ishlash ham mumkin ",
+        "post_type": "partner",
+        "date": "2022-11-17T21:00:00"
+    },
+    {
+        "technologies": "  php, telegrambot, sql",
+        "location": "  toshkent   sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-12-04T11:01:24"
+    },
+    {
+        "technologies": "  suniy intellekt, data scince, python  ",
+        "location": "  toshkent sh",
+        "price": " bepul ",
+        "post_type": "partner",
+        "date": "2022-12-04T14:01:40"
+    },
+    {
+        "technologies": "  css, javascript, react, redux  ",
+        "location": "  toshkent   sh",
+        "price": " bepul ",
+        "post_type": "partner",
+        "date": "2022-12-09T21:00:49"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react js, wordpress, git",
+        "location": "  namangan viloyati uychi tumani  ",
+        "price": " 300 000 ming ",
+        "post_type": "partner",
+        "date": "2022-12-10T14:01:58"
+    },
+    {
+        "technologies": "  python",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-12-10T17:01:07"
+    },
+    {
+        "technologies": "  html, css, javascript, react js  ",
+        "location": "  fargʻona viloyati rishton tumani  ",
+        "price": " amaliyot uchun ",
+        "post_type": "partner",
+        "date": "2022-12-10T21:00:38"
+    },
+    {
+        "technologies": "  html, css, react, node. js, python  ",
+        "location": "  toshkent sh",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-12-16T18:00:00"
+    },
+    {
+        "technologies": "  python, telegram bot  ",
+        "location": "  xorazm  ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-12-18T20:00:28"
+    },
+    {
+        "technologies": "  python, django, drf, sql, postgresql, html, css, bootstrap5, javascript  ",
+        "location": "  farg'ona vil, qo'qon sh  ",
+        "price": " 20$ ",
+        "post_type": "partner",
+        "date": "2022-12-23T19:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react js, wordpress, git",
+        "location": "  namangan viloyati uychi tumani  ",
+        "price": " 300 000 ming ",
+        "post_type": "partner",
+        "date": "2022-12-24T15:00:00"
+    },
+    {
+        "technologies": "  python, django  ",
+        "location": "  toshkent shahar  ",
+        "price": " 100$ ",
+        "post_type": "partner",
+        "date": "2022-12-25T14:01:11"
+    },
+    {
+        "technologies": "  android   ",
+        "location": "  fargona   ",
+        "price": " tekin ",
+        "post_type": "partner",
+        "date": "2022-12-26T09:00:38"
+    }
+]

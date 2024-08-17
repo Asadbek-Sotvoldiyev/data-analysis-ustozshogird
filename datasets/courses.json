@@ -1,0 +1,2536 @@
+[
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, vue.js, git, python, telegrambot, django, postgresql, linux",
+        "location": "  toshkent sh",
+        "price": " 810 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-05T09:00:00"
+    },
+    {
+        "technologies": "   c++  ",
+        "location": "  toshkent sh",
+        "price": " bitta dars 40 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-06T08:59:58"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript,  reactjs, git",
+        "location": "  namangan  ",
+        "price": " 790 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-07T09:02:02"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-07T09:59:59"
+    },
+    {
+        "technologies": "  react js",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-07T10:59:59"
+    },
+    {
+        "technologies": "  tizim, tarmoq administratorligi, linux server, centos, ubuntu, debian, kerio control",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-07T15:59:59"
+    },
+    {
+        "technologies": "  html, css,  javascript, vuejs, nuxtjs",
+        "location": "  xorazm viloyati ",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-08T09:00:00"
+    },
+    {
+        "technologies": "  scratch, html, css, python, django, postgresql,  telegram bot, javascript  ",
+        "location": "  toshkent sh",
+        "price": " 349 ming yosh bolalar 549 ming katta yoshlilar uchun",
+        "post_type": "course",
+        "date": "2022-01-08T10:00:00"
+    },
+    {
+        "technologies": "  html, css, javascript, react, android  kotlin, php",
+        "location": "  toshkent sh",
+        "price": " 1.500.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-08T20:59:58"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, python, django , php , c++",
+        "location": "  farg'ona ",
+        "price": " 270 000 so'm ",
+        "post_type": "course",
+        "date": "2022-01-08T20:59:58"
+    },
+    {
+        "technologies": "  html, css, bootstrap5, javascript, python, django, git linux",
+        "location": "  toshkent vil",
+        "price": " 320 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-09T21:00:11"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react, git",
+        "location": "  navoiy",
+        "price": " 500 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-01-09T21:00:11"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, react.js,redux, php,laravel, mysql, git",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300000 so'm",
+        "post_type": "course",
+        "date": "2022-01-10T09:00:24"
+    },
+    {
+        "technologies": "  react, java, php, c#, android, flutter",
+        "location": "  toshkent sh",
+        "price": "  700.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-10T10:00:36"
+    },
+    {
+        "technologies": "  python,   vuejs, javascript, php, c#, android, flutter",
+        "location": "  toshkent sh",
+        "price": "  1.000.000 so'm, sinov muddati 2 hafta uchun 100.000 so’m",
+        "post_type": "course",
+        "date": "2022-01-11T16:59:59"
+    },
+    {
+        "technologies": "  html, css, boostrap, javascript, reactjs, react native,  php, laravel, mysql",
+        "location": "  namangan",
+        "price": " 666 ming  so'm",
+        "post_type": "course",
+        "date": "2022-01-12T20:59:57"
+    },
+    {
+        "technologies": "  c, python",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-13T09:59:58"
+    },
+    {
+        "technologies": "  html, css, javascript, react, redux, nodejs, mongodb",
+        "location": "  qashqadaryo vil, qarshi sh",
+        "price": " 320 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-13T21:00:00"
+    },
+    {
+        "technologies": "  algoritmlash, javascript, python, java, postgresql, spring boot, angular",
+        "location": "  qashqadaryo vil qarshi sh",
+        "price": " 300 000 so'mdan",
+        "post_type": "course",
+        "date": "2022-01-14T21:00:25"
+    },
+    {
+        "technologies": "  html, css3, bootstrap 5, sass, scss, javascript, jquery, git, react js, php, mysql, yii2",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-01-14T21:00:26"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, less, sass, gulp, git",
+        "location": "  toshkent sh",
+        "price": " 600.000 (fevralgacha 450.000)",
+        "post_type": "course",
+        "date": "2022-01-14T21:00:26"
+    },
+    {
+        "technologies": "  laravel framework",
+        "location": "  toshkent sh",
+        "price": " 700.000 (fevralgacha 550.000)",
+        "post_type": "course",
+        "date": "2022-01-15T17:59:59"
+    },
+    {
+        "technologies": "  python, django, postgresql, docker, celery, redis, additional tools, git, test driven development, microservices, ci, cd ,  deployment types, kubernates",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-15T18:59:59"
+    },
+    {
+        "technologies": "  flutter, dart",
+        "location": "  toshkent sh",
+        "price": " 1.000.000 (fevralgacha 700.000)",
+        "post_type": "course",
+        "date": "2022-01-16T09:00:00"
+    },
+    {
+        "technologies": "  flutter",
+        "location": "  toshkent sh ",
+        "price": " 810.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-16T09:04:59"
+    },
+    {
+        "technologies": "  html, javascript, bootstrap, git, python, php, mysql sass, c++, c, reactjs ",
+        "location": "  toshkent sh",
+        "price": " 1mln  so'm",
+        "post_type": "course",
+        "date": "2022-01-16T10:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git, react js, redux, nodejs   ",
+        "location": "  jizzax  ",
+        "price": " 300.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-16T10:05:00"
+    },
+    {
+        "technologies": "  c++, java, python, html, css, javascript, jquery, sql, angular",
+        "location": "  qashqadaryo",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-17T11:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js, redux, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 250 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-18T15:00:44"
+    },
+    {
+        "technologies": "  html ,  css ,  bootstrap ,  sass ,  javascript ,  react ,  redux ,  next js",
+        "location": "  toshkent sh",
+        "price": "  700.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-19T09:02:00"
+    },
+    {
+        "technologies": "   html, css3, bootstrap4-5, javascript, jquery, vuejs, mysql ,  laravel",
+        "location": "  andijon  ",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-19T10:00:12"
+    },
+    {
+        "technologies": "  react, java, php, c#, android, flutter",
+        "location": "  toshkent sh",
+        "price": "  700.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-20T08:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-22T09:59:52"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java,spring, python, django, dart, flutter",
+        "location": "  toshkent sh",
+        "price": " 400 000 ming so'mdan boshlanadi.",
+        "post_type": "course",
+        "date": "2022-01-23T08:59:51"
+    },
+    {
+        "technologies": "  node.js, react.js",
+        "location": "  toshkent sh",
+        "price": " kurs narxlari oyiga 700,000 so'm ",
+        "post_type": "course",
+        "date": "2022-01-23T10:02:29"
+    },
+    {
+        "technologies": "  html, css,  bootstrap, javascript, react.js, redux, php, laravel, mysql, git",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-23T10:59:51"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git, react, redux, nodejs",
+        "location": "  jizzax  ",
+        "price": " 300.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-23T11:59:51"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-23T18:59:51"
+    },
+    {
+        "technologies": "  html, css, javascript, python, postgresql, django, jquery ",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-23T19:04:51"
+    },
+    {
+        "technologies": "  cisco ccnav7 200-301, cisco ccna security, cisco ccnp encor 350-401, cisco ccnp enarsi 300-410",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-24T08:59:49"
+    },
+    {
+        "technologies": "  telegram bot, html, css, bootstrap, javascript, jquery, php, mysql, wordpress",
+        "location": "  andijon  ",
+        "price": " offlayn: 450.000",
+        "post_type": "course",
+        "date": "2022-01-25T18:04:59"
+    },
+    {
+        "technologies": "  flutter , dart",
+        "location": "  toshkent sh",
+        "price": " 900 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-28T09:00:12"
+    },
+    {
+        "technologies": "  python, django, drf",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-28T18:00:00"
+    },
+    {
+        "technologies": "  python, django, telegram bot",
+        "location": "  toshkent sh ",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-28T19:00:00"
+    },
+    {
+        "technologies": "  react.js, node.js",
+        "location": "  toshkent shahar",
+        "price": "  700 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-29T10:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react, git",
+        "location": "  navoiy",
+        "price": " 500 ming so'm",
+        "post_type": "course",
+        "date": "2022-01-29T11:00:00"
+    },
+    {
+        "technologies": "  python, django, telegram bot",
+        "location": "  toshkent sh ",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-30T10:00:14"
+    },
+    {
+        "technologies": "  html css sass bootstrap git javascript react. js vue. js, java, nodejs, php. python",
+        "location": "  toshkent sh",
+        "price": " 700.000 so'm",
+        "post_type": "course",
+        "date": "2022-01-30T19:01:04"
+    },
+    {
+        "technologies": "  html, css3, bootstrap4-5, javascript, reactjs, vuejs",
+        "location": "  andijon  ",
+        "price": " 220 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-30T21:00:01"
+    },
+    {
+        "technologies": "  android, ios, java, kotlin, flutter",
+        "location": "  andijon  ",
+        "price": " 220 000 so'm",
+        "post_type": "course",
+        "date": "2022-01-31T20:59:59"
+    },
+    {
+        "technologies": "  html5, css3, sass, bootstrap4, javascript, jquery, vuejs, reactjs, git, wordpress, php, mysql, yii2, laravel ",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm, albatta chegirmalar ham bor",
+        "post_type": "course",
+        "date": "2022-02-03T20:01:08"
+    },
+    {
+        "technologies": "  android, java, kotlin",
+        "location": "  farg’ona  ",
+        "price": " 490.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-05T09:59:59"
+    },
+    {
+        "technologies": "  c++, java, python, html, css, javascript, jquery, sql, angular",
+        "location": "  qashqadaryo",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-05T10:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap,  javascript,  jquery, angularjs, git, java, spring boot , spring security",
+        "location": "  qashqadaryo vil, qarshi sh ",
+        "price": " 300 000 so'mdan",
+        "post_type": "course",
+        "date": "2022-02-06T16:01:01"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, git, javascript, reactjs, vuejs, java, nodejs, php, python",
+        "location": "  toshkent sh",
+        "price": " 700.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-06T17:00:47"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, sass, react",
+        "location": "  namangan ",
+        "price": " 500 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-02-06T17:02:01"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-08T09:13:43"
+    },
+    {
+        "technologies": "  html, css, sass, scss, javascript, reactjs, redux",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-08T16:05:04"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js, redux, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 250 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-10T20:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, typescript, react, hooks, redux, npm ,  git",
+        "location": "  toshkent sh",
+        "price": " 600 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-02-11T21:01:06"
+    },
+    {
+        "technologies": "  python, django, drf",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-12T09:11:14"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js",
+        "location": "  namangan  ",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-12T21:00:38"
+    },
+    {
+        "technologies": "  html, css , javascript , bootstrap , python, django , php , c++",
+        "location": "  farg'ona  ",
+        "price": " 270 000 so'm ",
+        "post_type": "course",
+        "date": "2022-02-12T21:00:38"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react, git",
+        "location": "  navoiy",
+        "price": " 500 ming so'm",
+        "post_type": "course",
+        "date": "2022-02-13T15:01:03"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git, react, redux, nodejs",
+        "location": "  jizzax  ",
+        "price": " 300.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-13T21:00:35"
+    },
+    {
+        "technologies": "   c#, nodejs, typescript, javascript, php, laravel, reactjs, html, css, sql server, mongodb, postgresql, mysql, java",
+        "location": "  toshkent sh",
+        "price": " 400.000 - 600.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-13T21:00:35"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-13T21:00:35"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, dart, flutter",
+        "location": "  toshkent sh",
+        "price": " 500 000 ming so'mdan boshlanadi.",
+        "post_type": "course",
+        "date": "2022-02-14T21:00:03"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, less, sass, gulp, git",
+        "location": "  toshkent sh",
+        "price": " 600.000 ",
+        "post_type": "course",
+        "date": "2022-02-14T21:00:03"
+    },
+    {
+        "technologies": "  flutter, dart",
+        "location": "  toshkent sh",
+        "price": " 700.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-15T13:01:48"
+    },
+    {
+        "technologies": "   c#, .net, .net core, asp .net core, mssql, postgresql, mongodb",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-16T16:01:56"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, git, php, oop, mysql, laravel, wordpress",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-17T09:02:01"
+    },
+    {
+        "technologies": "  android, kotlin, java, sqlite, postgresql",
+        "location": "  toshkent sh",
+        "price": " 500.000  so'm",
+        "post_type": "course",
+        "date": "2022-02-18T20:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, jquery, javascript, vuejs, java, oop, jpa,",
+        "location": "  namangan  ",
+        "price": " 400 ming so'm",
+        "post_type": "course",
+        "date": "2022-02-21T09:01:31"
+    },
+    {
+        "technologies": "  python, sql, django",
+        "location": "  samarqand  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-21T17:00:35"
+    },
+    {
+        "technologies": "  python, django, html, css, bootstrap, linux server, vsd, git ",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-22T10:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, date base, dart, flutter",
+        "location": "  toshkent sh",
+        "price": " 500 000 ming so'mdan boshlanadi.",
+        "post_type": "course",
+        "date": "2022-02-22T11:59:59"
+    },
+    {
+        "technologies": "  django",
+        "location": "  toshkent sh",
+        "price": " 550000 so'm",
+        "post_type": "course",
+        "date": "2022-02-24T09:00:47"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, git, javascript, reactjs, vuejs, java, nodejs, php. python",
+        "location": "  toshkent sh",
+        "price": " 700.000 so'm",
+        "post_type": "course",
+        "date": "2022-02-24T21:00:25"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, reactjs, python, django, postgresql, git",
+        "location": " buxoro",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-24T21:00:25"
+    },
+    {
+        "technologies": "  flutter, reactjs, php, laravel, android, java, kotlin, python, django",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 350 000 so'm",
+        "post_type": "course",
+        "date": "2022-02-26T15:01:35"
+    },
+    {
+        "technologies": "  html, css, javascript, git, java core, java spring ",
+        "location": "  toshkent sh",
+        "price": " 500 000 - 2 000 000 so'm. ",
+        "post_type": "course",
+        "date": "2022-02-26T16:00:34"
+    },
+    {
+        "technologies": "  java, python",
+        "location": "  andijon ",
+        "price": " 200.000 so'm dan 749.000 so’mgacha kursga qarab",
+        "post_type": "course",
+        "date": "2022-02-27T13:00:54"
+    },
+    {
+        "technologies": "  scratch, html, css, bootstrap,  sass, reactjs, jquery, javascript, python, telegram bot, django, git, php, postgresql, mysql,  sqlite3  ",
+        "location": "  toshkent",
+        "price": " 750.000 - 1.200.000 so'm",
+        "post_type": "course",
+        "date": "2022-03-01T14:01:28"
+    },
+    {
+        "technologies": "   typescript, nodejs, mongodb",
+        "location": "  toshkent sh",
+        "price": " bitta dars 80 ming so'm",
+        "post_type": "course",
+        "date": "2022-03-02T09:00:45"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-03T09:01:54"
+    },
+    {
+        "technologies": "  python , django framework",
+        "location": "  toshkent sh",
+        "price": "  700 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-03T10:02:07"
+    },
+    {
+        "technologies": "  nodejs, javascript, typescript, mongodb, postgresql",
+        "location": "  toshkent sh",
+        "price": " 800.000  so'm",
+        "post_type": "course",
+        "date": "2022-03-04T09:00:05"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": " 1 500 000 so'm oyiga, 6 oy.",
+        "post_type": "course",
+        "date": "2022-03-04T10:00:30"
+    },
+    {
+        "technologies": "  java, spring framework",
+        "location": "  toshkent sh ",
+        "price": " 1mln so'm",
+        "post_type": "course",
+        "date": "2022-03-04T10:05:05"
+    },
+    {
+        "technologies": "   html, css3, bootstrap, javascript, jquery, vuejs, mysql ,  laravel",
+        "location": "  andijon",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-04T16:00:09"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js, redux, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 250 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-04T16:05:09"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-05T18:01:09"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, typescript, react, hooks,  redux, git",
+        "location": "  toshkent sh",
+        "price": " 600 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-03-05T19:01:05"
+    },
+    {
+        "technologies": "  html, css, bootstrap5, sass, javascript, jquery, postgresql",
+        "location": "  namangan",
+        "price": " bepul",
+        "post_type": "course",
+        "date": "2022-03-08T12:00:55"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, reactjs ",
+        "location": "  farg‘ona  ",
+        "price": " 280 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-10T20:01:19"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, dart, flutter",
+        "location": "  toshkent sh",
+        "price": " 500 000 ming so'mdan boshlanadi.",
+        "post_type": "course",
+        "date": "2022-03-12T10:00:39"
+    },
+    {
+        "technologies": "  html, css , javascript , bootstrap , python, django , php , c++",
+        "location": "  farg'ona ",
+        "price": " 270 000 so'm ",
+        "post_type": "course",
+        "date": "2022-03-12T11:00:21"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap,  javascript,  jquery, angularjs, git, java, spring boot , spring security",
+        "location": "  qashqadaryo vil, qarshi sh ",
+        "price": " 300 000 so'mdan",
+        "post_type": "course",
+        "date": "2022-03-12T18:05:05"
+    },
+    {
+        "technologies": "  html, css, bootstrapt, javascript, jquery, reactjs, python, django ",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-16T08:00:46"
+    },
+    {
+        "technologies": "  html5, css3, bootstrap, javascript, angularjs, less, git, grunt, gulp",
+        "location": "  qashqadaryo vil. qamashi t .",
+        "price": " 100 000 - 220 000 so'm  so'm",
+        "post_type": "course",
+        "date": "2022-03-16T10:00:00"
+    },
+    {
+        "technologies": "  html5, css, scss, sass, bootstrap, javascript, vuejs, reactjs, git",
+        "location": " samarqand viloyati . samarqand  shahri.",
+        "price": " 300 ming sum",
+        "post_type": "course",
+        "date": "2022-03-17T09:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrapt, javascript, jquery, reactjs, python",
+        "location": "  samarqand  ",
+        "price": " 400 000 so'm ",
+        "post_type": "course",
+        "date": "2022-03-17T13:04:59"
+    },
+    {
+        "technologies": "  html, css, bootstrapt, javascript, jquery, reactjs, python, django ",
+        "location": "  buxoro  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-17T14:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, reactjs, node.js , cyber security, python, django",
+        "location": "  farg'ona  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-17T14:05:00"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, tailwind, react.js, redux, python, django, django rest framework",
+        "location": "  andijon  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-19T09:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux, webpack, next js",
+        "location": "",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-20T12:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, scss , javascript, es5, es6, react, sql, mongodb, express, nodejs,  java, room, retrofit, viewbinding",
+        "location": "  farg'ona   ",
+        "price": " 350 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-22T14:01:25"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-23T21:01:27"
+    },
+    {
+        "technologies": "  html, css, javascript, react",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-24T09:00:15"
+    },
+    {
+        "technologies": "  python",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-25T19:00:00"
+    },
+    {
+        "technologies": "  swift, ios",
+        "location": "  toshkent sh",
+        "price": " 1 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-25T20:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, reactjs ",
+        "location": "  farg‘ona  ",
+        "price": " 280 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-26T14:01:58"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, git, javascript, reactjs, vuejs, java, nodejs, php, python",
+        "location": "  toshkent sh",
+        "price": " 700.000 so'm",
+        "post_type": "course",
+        "date": "2022-03-27T15:04:59"
+    },
+    {
+        "technologies": "  html, css, javascript, reactjs, php, laravel, python, django, android, java, kotlin, flutter",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-29T20:59:43"
+    },
+    {
+        "technologies": "  golang, flutter",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-03-29T20:59:43"
+    },
+    {
+        "technologies": "  java,  vuejs",
+        "location": "  toshkent sh",
+        "price": " java backend 2 mln so'm,",
+        "post_type": "course",
+        "date": "2022-03-30T09:00:31"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js, redux, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 275 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-01T12:00:50"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-01T13:01:44"
+    },
+    {
+        "technologies": "  python  ",
+        "location": "  toshkent sh",
+        "price": " 1 500 000 so'm oyiga, 6 oy.",
+        "post_type": "course",
+        "date": "2022-04-05T15:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux, webpack, next js",
+        "location": "",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-05T16:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap,  javascript,  jquery, angularjs, git, java, spring boot , spring security",
+        "location": "  qashqadaryo vil, qarshi sh ",
+        "price": " 300 000 so'mdan",
+        "post_type": "course",
+        "date": "2022-04-09T21:00:19"
+    },
+    {
+        "technologies": "",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-12T11:01:29"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-14T11:01:43"
+    },
+    {
+        "technologies": "  html, css, bootstrapt, javascript, jquery, reactjs, python, django ",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-14T21:00:22"
+    },
+    {
+        "technologies": "  html, css, python, django, django rest framework",
+        "location": "  andijon  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-14T21:00:22"
+    },
+    {
+        "technologies": "  html, css, javascript, react.js, redux.js, next.js",
+        "location": "  samarqand",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-14T21:00:22"
+    },
+    {
+        "technologies": "  java,  vuejs",
+        "location": "  toshkent sh",
+        "price": " ",
+        "post_type": "course",
+        "date": "2022-04-15T09:00:35"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, webpack, react.js, redux, nextjs, graphql,  php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 250 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-16T16:01:34"
+    },
+    {
+        "technologies": "  html, css, javascript, react",
+        "location": "  toshkent sh",
+        "price": " ramazonga 50% skidka bn 400ming so'm",
+        "post_type": "course",
+        "date": "2022-04-16T17:00:35"
+    },
+    {
+        "technologies": "  python , django framework",
+        "location": "  toshkent sh",
+        "price": "  700 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-16T21:00:13"
+    },
+    {
+        "technologies": "  java, spring framework",
+        "location": "  toshkent sh ",
+        "price": "1mln so'm",
+        "post_type": "course",
+        "date": "2022-04-17T09:00:57"
+    },
+    {
+        "technologies": "  python, django, html, css, bootstrap, linux server, vsd, git ",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-18T17:00:52"
+    },
+    {
+        "technologies": "  python full stack",
+        "location": "  toshkent sh",
+        "price": " 1 500 000 so'm oyiga, 6 oy.",
+        "post_type": "course",
+        "date": "2022-04-19T12:00:00"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot",
+        "location": "  toshkent sh",
+        "price": " 690 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-20T12:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux",
+        "location": "",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-21T14:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, reactjs, ",
+        "location": "  samarqand  ",
+        "price": " 490 000 so'm ",
+        "post_type": "course",
+        "date": "2022-04-22T09:01:11"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, c#, asp. net core, entityframework, sql",
+        "location": "  xorazm  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-23T16:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, reactjs, ",
+        "location": "  toshkent sh",
+        "price": " 900 000 so'm ",
+        "post_type": "course",
+        "date": "2022-04-23T19:00:00"
+    },
+    {
+        "technologies": "  node.js, javascript, typescript, mongodb, express.js, nest.js, html, css, algoritm, data structure, git, oop",
+        "location": "  toshkent shahri",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-24T14:02:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, react js, redux",
+        "location": "  toshkent sh",
+        "price": " 590 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-25T14:59:57"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-27T17:01:57"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, android, java, kotlin, flutter",
+        "location": "  farg'ona vil qo’qon shaxar",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-27T18:00:20"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, python",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-04-27T19:01:40"
+    },
+    {
+        "technologies": "  reactjs, javascript ",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-04-28T09:00:21"
+    },
+    {
+        "technologies": "  python, django",
+        "location": "  toshkent sh",
+        "price": " suxbatdan keyin aniqlanadi ",
+        "post_type": "course",
+        "date": "2022-04-29T21:00:00"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, html",
+        "location": "  toshkent sh ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-01T11:01:52"
+    },
+    {
+        "technologies": "",
+        "location": "  farg'ona shahar",
+        "price": " 600 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-05-02T16:01:40"
+    },
+    {
+        "technologies": "  python, c++, html, css, scss, bootstrap, javascript, vuejs, c#,  .net",
+        "location": "  samarqand",
+        "price": " 250,000 so'm",
+        "post_type": "course",
+        "date": "2022-05-02T17:01:33"
+    },
+    {
+        "technologies": "",
+        "location": "  toshkent sh",
+        "price": " offline 999 000 so'm, online 599 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-02T18:00:00"
+    },
+    {
+        "technologies": "  java, kotlin, dart, android, flutter",
+        "location": "  farg'ona ",
+        "price": " 600 ming so'm",
+        "post_type": "course",
+        "date": "2022-05-04T10:00:58"
+    },
+    {
+        "technologies": "  java",
+        "location": "  qashqadaryo ",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-06T14:01:51"
+    },
+    {
+        "technologies": "  html, css, javascript, react.js, redux.js, next.js, python, django",
+        "location": "  samarqand",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-07T09:00:17"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, dart, flutter ,  postgresql ,  android",
+        "location": "  toshkent sh",
+        "price": " 500 000 ming so'mdan boshlanadi.",
+        "post_type": "course",
+        "date": "2022-05-07T18:01:19"
+    },
+    {
+        "technologies": "  html, css, bootstrap, git, sass, javascript",
+        "location": "  jizzax  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-10T12:01:37"
+    },
+    {
+        "technologies": "  react, html, css, bootstrap, sass, javascript",
+        "location": "  toshkent sh",
+        "price": " 80 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-10T13:00:48"
+    },
+    {
+        "technologies": "  linux, docker, git, kubernetes, ci, cd, aws, azure, sdlc, jenkins",
+        "location": "  toshkent sh",
+        "price": " 699 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-11T18:01:33"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, vue js, php, mysql, symfony, git",
+        "location": "  surxondaryo viloyati, termiz shahri",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-12T19:02:01"
+    },
+    {
+        "technologies": "  html5 ,  css3 ,  javascript  es6+,  sass ,  tailwind css ,  react ,  redux",
+        "location": "  toshkent sh",
+        "price": " 790.000 so'm ",
+        "post_type": "course",
+        "date": "2022-05-14T13:00:14"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, html",
+        "location": "",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-15T21:00:11"
+    },
+    {
+        "technologies": "  python, javascript, reactjs",
+        "location": "  toshkent shahar",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-15T21:00:11"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, webpack, react.js, redux, nextjs, graphql, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 275 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-16T15:59:57"
+    },
+    {
+        "technologies": "   html, css3, bootstrap4-5, javascript, jquery, vuejs, mysql ,  laravel",
+        "location": "  asaka ,  andijon  ",
+        "price": " 300 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-05-18T17:00:21"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, drf",
+        "location": "  toshkent shaxri",
+        "price": " 690 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-19T12:59:59"
+    },
+    {
+        "technologies": "  python, django",
+        "location": "  toshkent sh",
+        "price": " 690 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-19T21:02:12"
+    },
+    {
+        "technologies": "  flutter ",
+        "location": "  samarqand",
+        "price": " 750 000, 1,350,000 so'm",
+        "post_type": "course",
+        "date": "2022-05-20T15:01:32"
+    },
+    {
+        "technologies": "  python, telegram bot, postgresql, django",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-20T16:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, ec6, react.js, bootstrap, git",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-05-20T17:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript  python, django, photoshop, illustrator, figma, 3dsmax, marvelous, adobe photoshop",
+        "location": "  namangan",
+        "price": "  bepul  ",
+        "post_type": "course",
+        "date": "2022-05-21T09:00:50"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, oop, sql, php,  laravel, telegram bot",
+        "location": "  fargona",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-21T19:01:15"
+    },
+    {
+        "technologies": "  python, telegram bot, postgresql, django",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-21T19:05:08"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, python",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-05-21T20:00:57"
+    },
+    {
+        "technologies": "  flutter, android, ios, dart, java, kotlin, provider, bloc, getx, http, dio, retrofit, firebase, sqlite, hive, moor, git",
+        "location": "  navoiy",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-22T12:05:04"
+    },
+    {
+        "technologies": "   python, telegram bot, django",
+        "location": "  toshkent sh",
+        "price": "  700 000  600 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-23T11:59:56"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript,es6, jquery, react.js, redux",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-24T13:00:00"
+    },
+    {
+        "technologies": "  java, python, android",
+        "location": "  samarqand  ",
+        "price": " 400 000 - 495 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-25T14:00:00"
+    },
+    {
+        "technologies": "  flutter, dart",
+        "location": "  toshkent sh",
+        "price": "  600 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-25T15:05:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript , jquery, reactjs, redux, git",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-25T16:00:43"
+    },
+    {
+        "technologies": "  ios, swift, xcode",
+        "location": "  toshkent sh",
+        "price": " 1 150 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-26T09:01:22"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": "  surxondaryo , termiz shahar",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-05-30T09:01:10"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, typescript, react, redux, git",
+        "location": "  toshkent sh",
+        "price": " 600 000 ming so'm",
+        "post_type": "course",
+        "date": "2022-05-31T09:00:44"
+    },
+    {
+        "technologies": "  ios, swift, xcode",
+        "location": "  toshkent sh",
+        "price": " 1 150 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-01T11:01:11"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, html",
+        "location": "  toshkent sh ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-01T12:01:50"
+    },
+    {
+        "technologies": "  javascript, vuejs, c#, .net, python, django, c++",
+        "location": "  samarqand",
+        "price": " 300,000 so'm",
+        "post_type": "course",
+        "date": "2022-06-04T14:02:02"
+    },
+    {
+        "technologies": "  flutter, android, ios, dart, java, kotlin, provider, bloc,  dio, retrofit, firebase, sqlite, hive, moor, git",
+        "location": "  navoiy",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-06T10:00:47"
+    },
+    {
+        "technologies": "  java, kotlin, dart, android, flutter",
+        "location": "  farg'ona ",
+        "price": " 600 ming so'm",
+        "post_type": "course",
+        "date": "2022-06-06T13:00:06"
+    },
+    {
+        "technologies": "  python, telegram bot, postgresql, django",
+        "location": "  toshkent   sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-07T15:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react.js, redux, php, oop, laravel",
+        "location": "  farg'ona vil qoqon sh",
+        "price": " 275 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-08T21:00:20"
+    },
+    {
+        "technologies": "  c++, java",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm-700.000so'm",
+        "post_type": "course",
+        "date": "2022-06-10T09:05:05"
+    },
+    {
+        "technologies": "  html, css, javascript, sql, php  ",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-10T10:00:32"
+    },
+    {
+        "technologies": "  python, data science",
+        "location": "  namangan  ",
+        "price": " 400 000 so’m oyiga",
+        "post_type": "course",
+        "date": "2022-06-10T18:05:00"
+    },
+    {
+        "technologies": "  javascript, react, python",
+        "location": " toshkent sh , chilonzor 12",
+        "price": " 700,000 so'm",
+        "post_type": "course",
+        "date": "2022-06-11T12:00:40"
+    },
+    {
+        "technologies": "  javascript, react",
+        "location": "  toshkent shahar",
+        "price": " 550,000",
+        "post_type": "course",
+        "date": "2022-06-11T13:01:51"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, vuejs, nodejs express, mongodb, telegrambot ",
+        "location": "  namangan  ",
+        "price": " 400.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-06-12T09:00:06"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript , jquery, reactjs, redux, git",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-13T09:01:59"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs ,  mongodb, postgresql",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-06-15T09:01:25"
+    },
+    {
+        "technologies": "  flutter, dart",
+        "location": "  toshkent sh",
+        "price": "  600 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-15T14:05:04"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-16T14:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, tailwind, gulp, git, javascript, typescript, react, redux, next.js, docker",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-17T13:05:00"
+    },
+    {
+        "technologies": "  vue.js, nuxt.js",
+        "location": "  toshkent sh",
+        "price": " 790 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-17T15:00:00"
+    },
+    {
+        "technologies": "  html, css, git, javascript, sass, gulp, pug, bootstrap 4, 5",
+        "location": " farg'ona viloyati, marg'ilon",
+        "price": " oyiga 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-18T09:01:45"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git, react, redux",
+        "location": "  jizzax  ",
+        "price": " 300.000 so'm",
+        "post_type": "course",
+        "date": "2022-06-18T15:00:35"
+    },
+    {
+        "technologies": "  python, django",
+        "location": "  toshkent sh",
+        "price": " suxbatdan keyin aniqlanadi ",
+        "post_type": "course",
+        "date": "2022-06-20T09:00:01"
+    },
+    {
+        "technologies": "   html, css3, bootstrap4-5, javascript, jquery, vuejs, mysql ,  laravel",
+        "location": "  asaka ,  andijon  ",
+        "price": " 300 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-06-20T14:59:56"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, dart, flutter, postgresql, android",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-06-22T09:00:00"
+    },
+    {
+        "technologies": "  python, django, rest freamework, html, css, bootstrap, linux server, vds, xosting, aws, git, heroku",
+        "location": "  toshkent sh",
+        "price": " 550000 so'm",
+        "post_type": "course",
+        "date": "2022-06-23T09:05:00"
+    },
+    {
+        "technologies": "  java, java core, postgresql, spring boot ",
+        "location": "  samarqand ",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-23T10:00:14"
+    },
+    {
+        "technologies": "  robototexnika",
+        "location": "  toshkent sh",
+        "price": " 4 000 000 mln",
+        "post_type": "course",
+        "date": "2022-06-25T11:00:00"
+    },
+    {
+        "technologies": "  python, node.js, javascript, react, vue",
+        "location": "  andijon, farg'ona, samarqand",
+        "price": " 490 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-26T13:05:04"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-06-27T08:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript , jquery, reactjs, redux, git",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-27T17:59:59"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-06-27T21:11:01"
+    },
+    {
+        "technologies": "  html, css, python, django, django rest framework, postgresql, nodejs, mongodb, reactjs, expressjs, linux server",
+        "location": "  andijon  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-28T18:05:06"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, webpack, react.js, redux, nextjs, graphql,  nodejs, expressjs, mongodb, mern, php, oop, laravel",
+        "location": " farg'ona vil qoqon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-28T19:00:33"
+    },
+    {
+        "technologies": "  react.js",
+        "location": "  toshkent sh",
+        "price": "  500 000 so'm",
+        "post_type": "course",
+        "date": "2022-06-30T16:00:23"
+    },
+    {
+        "technologies": "  dart, flutter",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-01T17:05:05"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, wordpress",
+        "location": "  toshkent sh",
+        "price": " 499000 so'm (ayollar uchun chegirma mavjud)",
+        "post_type": "course",
+        "date": "2022-07-03T14:00:53"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, android, java, kotlin, flutter, dart",
+        "location": "  farg'ona vil qo’qon shaxar",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-05T09:00:00"
+    },
+    {
+        "technologies": "  java, kotlin, android",
+        "location": "  samarqand  ",
+        "price": " 490 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-06T13:05:06"
+    },
+    {
+        "technologies": "  reactjs, vuejs, nextjs, microfronted, canvas, rectflow",
+        "location": "  toshkent   sh",
+        "price": " 1.500.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-07-06T19:04:59"
+    },
+    {
+        "technologies": "  golang, nodejs, microservices, architector, teamlead",
+        "location": "  toshkent   sh",
+        "price": " 1.500.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-07-07T09:00:00"
+    },
+    {
+        "technologies": "  docker compose, metrics, alerts, ansible, kafka, kubernetos",
+        "location": "  toshkent   sh",
+        "price": " 1.500.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-07-08T09:00:06"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js, git, python, robototexnika, java, kotlin",
+        "location": "  fargʻona  ",
+        "price": " 300000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-07-08T16:59:58"
+    },
+    {
+        "technologies": "  qa bootcamp kurslari, test plan, test case, postman, jmeter, jest, load testing",
+        "location": "  toshkent   sh",
+        "price": " 1.500.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-07-09T09:01:21"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-07-13T11:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git , react ",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-07-15T09:01:44"
+    },
+    {
+        "technologies": "  python",
+        "location": "  toshkent shahar",
+        "price": " 1.000.000 so'm oyiga",
+        "post_type": "course",
+        "date": "2022-07-16T12:04:59"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, vue.js , node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-18T14:00:31"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, php, sql",
+        "location": " surxondaryo, termiz shahar",
+        "price": " 500,000 so'm",
+        "post_type": "course",
+        "date": "2022-07-19T18:00:36"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, vuejs, vuex, vuetify,  nodejs, express, mongodb, mongoose, git",
+        "location": "  namangan",
+        "price": " 40$",
+        "post_type": "course",
+        "date": "2022-07-21T13:02:17"
+    },
+    {
+        "technologies": "  python, django, html, css, bootstrap, linux server, vds, git",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-21T14:02:02"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, android, java, kotlin, flutter, dart",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-22T13:00:18"
+    },
+    {
+        "technologies": "  php, java, spring, yii2, laravel",
+        "location": "  navoiy  ",
+        "price": " 1 mln so'm",
+        "post_type": "course",
+        "date": "2022-07-25T09:00:42"
+    },
+    {
+        "technologies": "  java, .net dotnet, go, flutter, nodejs, vuejs",
+        "location": "  toshkent   sh",
+        "price": " 1700000 so'mdan boshlanadi (har soat uchun: 18888 so'm)",
+        "post_type": "course",
+        "date": "2022-07-26T09:01:54"
+    },
+    {
+        "technologies": "  c++, html, css3, bootstrap 5, sass, scss, javascript, typescript, algoritmlar, react js, react-hooks , react-redux, react-native, android, ios, material ui design, unit and integration test, git",
+        "location": "  qashqadaryo viloyati koson tumani",
+        "price": " 200 000 - 400 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-07-27T14:00:46"
+    },
+    {
+        "technologies": "  nodejs",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-27T15:01:30"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, react, redux, git",
+        "location": "   farg'ona viloyat",
+        "price": " 300.000 so'm ",
+        "post_type": "course",
+        "date": "2022-07-28T09:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, vuejs, java, spring, python, django, dart, flutter, postgresql, android",
+        "location": "  toshkent sh",
+        "price": " 800.000 - ming so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-07-28T18:59:59"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, oop, sql, php, laravel, telegram bot, ",
+        "location": "  fargona",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-07-28T19:04:59"
+    },
+    {
+        "technologies": "  qa ,  software testing",
+        "location": "  toshkent   sh",
+        "price": " 1300000 so'mdan boshlanadi (har soat uchun: 54166 so'm)",
+        "post_type": "course",
+        "date": "2022-07-29T19:00:41"
+    },
+    {
+        "technologies": "  golang, algoritmlar, gin gonic framework, fiber framework, posrgresql and mongodb, unit, integration test, telegram bot, git, linux servers, docker, kubernetes",
+        "location": " qashqadaryo viloyati koson tumani",
+        "price": " 200 000 - 400 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-07-30T08:59:59"
+    },
+    {
+        "technologies": "  flutter, android, ios, dart, java, python, kotlin",
+        "location": "  navoiy",
+        "price": " 400 000-850 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-01T12:05:09"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, reactjs, redux, webpack, nextjs",
+        "location": "  toshkent sh  ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-02T14:00:53"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, reactjs",
+        "location": "  toshkent shahar",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-03T11:00:23"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql, python , django, telegram bot",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-08-04T21:00:47"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, javascript, react js, java , postgres, mongodb, spring framework",
+        "location": "  toshkent viloyati ",
+        "price": " 720 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-04T21:00:47"
+    },
+    {
+        "technologies": "  android, flutter bootcamp",
+        "location": "  toshkent shahar ",
+        "price": " 4 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-05T15:01:06"
+    },
+    {
+        "technologies": "  python , django framework",
+        "location": "  toshkent sh",
+        "price": "  500 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-06T11:00:51"
+    },
+    {
+        "technologies": "  android, java, kotlin",
+        "location": "  buxoro  ",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-07T10:00:24"
+    },
+    {
+        "technologies": "  html, css, javascript, react, php, laravel",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-07T13:02:02"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-07T13:05:08"
+    },
+    {
+        "technologies": "  python, data science",
+        "location": "  namangan ",
+        "price": " 400 000 so’m oyiga",
+        "post_type": "course",
+        "date": "2022-08-10T15:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap,  javascript, vuejs, vuex, php, mysql, git",
+        "location": "  surxondaryo, termiz",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-12T16:59:59"
+    },
+    {
+        "technologies": "  cisco, ccnav7, enterprise, routing, switching",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-14T09:00:00"
+    },
+    {
+        "technologies": "  html5, css3, bootstrap, javascript, jquery, react.js, redux, git",
+        "location": "  toshkent sh",
+        "price": " kurs narxlari oyiga 700,000 so'm ",
+        "post_type": "course",
+        "date": "2022-08-16T14:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, git, react, redux",
+        "location": "  jizzax  ",
+        "price": " 300.000 so'm",
+        "post_type": "course",
+        "date": "2022-08-17T20:59:58"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js",
+        "location": "  fargʻona  ",
+        "price": " 300000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-08-18T12:00:54"
+    },
+    {
+        "technologies": "  python, django, javascript",
+        "location": "  farg'ona vil qo'qon sh",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-18T13:02:04"
+    },
+    {
+        "technologies": "  android, java, kotlin",
+        "location": "  buxoro  ",
+        "price": " 500000 so'm",
+        "post_type": "course",
+        "date": "2022-08-19T09:00:01"
+    },
+    {
+        "technologies": "  python, django",
+        "location": "  fargʻona ",
+        "price": " 300 000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-08-19T10:02:00"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, oop, sql, php, laravel, telegram bot",
+        "location": "  farg'ona",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-19T10:05:07"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, reactjs ",
+        "location": "  farg‘ona  ",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-20T13:05:10"
+    },
+    {
+        "technologies": "  html, css, javascript, python, postgresql, django",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-23T16:00:53"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react.js, redux, php, oop, laravel, git",
+        "location": "  farg'ona vil qo'qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-24T16:00:00"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, oop, sql, php,  laravel, telegram bot ",
+        "location": "  farg'ona",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-25T13:05:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, jquery, reactjs, redux  ",
+        "location": "  toshkent sh",
+        "price": " 690 000 so'm",
+        "post_type": "course",
+        "date": "2022-08-29T14:00:15"
+    },
+    {
+        "technologies": "  python, django, html, css, bootstrap, deploying",
+        "location": "  toshkent sh",
+        "price": " 550 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-03T17:01:50"
+    },
+    {
+        "technologies": "  html, css, javascript, bootstrap, jquery, php, laravel, sql",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-04T10:01:38"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, javascript, react js, redux, webpack, next js, git",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-05T10:02:04"
+    },
+    {
+        "technologies": "  javascript, react.js, node.js, express.js, mongodb, postgresql, typescript, redux.js",
+        "location": "  samarqand",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-05T12:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux, webpack, next js",
+        "location": "  toshkent sh ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-06T21:00:45"
+    },
+    {
+        "technologies": "  html, css, bootstrap 5, git, javascript, sass, vuejs",
+        "location": "  toshkent sh",
+        "price": " 599 000 so'm / oyiga",
+        "post_type": "course",
+        "date": "2022-09-06T21:00:45"
+    },
+    {
+        "technologies": "  php, mysql, laravel",
+        "location": "  namangan",
+        "price": " 400 000 so'mdan  guruh. 1 100 000 so'mdan yakka tartibda",
+        "post_type": "course",
+        "date": "2022-09-06T21:00:45"
+    },
+    {
+        "technologies": "  html, css, javascript, react, next.js, python, django, node.js, express.js, typescript, nest.js, mysql, sqlite, postgresql, docker, rabbitmq, nginx, apache",
+        "location": "  toshkent sh ",
+        "price": " 750 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-06T21:00:46"
+    },
+    {
+        "technologies": "  html, css, sass, javascript, jquery, bootstrap5, gulp, react.js, node.js, mongodb",
+        "location": "  farg'ona",
+        "price": " 350 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-07T08:59:59"
+    },
+    {
+        "technologies": "  python, django, sql, html, css, bootstrap, javascript, react, java, kotlin, android ",
+        "location": "  andijon",
+        "price": " 442000 so'm",
+        "post_type": "course",
+        "date": "2022-09-07T10:04:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap,  javascript,  jquery, angularjs, git, java, oop,  spring boot , spring security",
+        "location": "  qashqadaryo vil qarshi sh",
+        "price": " 300 000 so'mdan",
+        "post_type": "course",
+        "date": "2022-09-07T17:59:59"
+    },
+    {
+        "technologies": "  flutter, react, django, laravel",
+        "location": "  andijon  ",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-08T15:05:00"
+    },
+    {
+        "technologies": "  python, django, dart, flutter, html, css, javascript, veujs, reactjs",
+        "location": "  toshkent sh",
+        "price": " 500 000 - so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-09-12T09:01:59"
+    },
+    {
+        "technologies": "  python, telegram bot",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-12T09:05:03"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, oop, sql, php,  laravel, telegram bot ",
+        "location": "  farg'ona",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-12T10:00:44"
+    },
+    {
+        "technologies": "  cisco, ccnav7, enterprise, routing, switching",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-12T15:01:51"
+    },
+    {
+        "technologies": "  scratch, c++, html, css, javascript, python, django ",
+        "location": "  buxoro    ",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-12T15:05:09"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js",
+        "location": "  fargʻona ",
+        "price": " 400000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-09-13T09:00:41"
+    },
+    {
+        "technologies": "  sun'iy intellekt, data science, data analyst",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-13T10:01:34"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap ,javascript, react js, redux,webpack,next js,git",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-15T09:00:00"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, drf",
+        "location": "  toshkent shaxri",
+        "price": " 600 000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-09-17T10:00:37"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js, vue js",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-17T14:00:42"
+    },
+    {
+        "technologies": "  html, css, bootstrap, javascript, jquery, vue, react",
+        "location": "  fargʻona viloyati quva tumani ",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-17T21:00:11"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql, python, django, telegram bot ",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-09-17T21:00:11"
+    },
+    {
+        "technologies": "  python, django, dart, flutter, html, css, javascript, vuejs, reactjs",
+        "location": "  toshkent sh",
+        "price": " 500 000 - so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-09-18T15:00:56"
+    },
+    {
+        "technologies": "  html, css, javascript, vuejs",
+        "location": "  samarqand  ",
+        "price": " 400.000 so'm",
+        "post_type": "course",
+        "date": "2022-09-20T09:02:01"
+    },
+    {
+        "technologies": "  javascript, react.js, node.js, express.js, mangodb, postgresql, typescript, redux",
+        "location": "  samarqand",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-21T13:04:59"
+    },
+    {
+        "technologies": "  python, oop, telegram bot, mysql, django ",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-22T20:01:53"
+    },
+    {
+        "technologies": "  java, spring framework",
+        "location": "  toshkent shahri",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-24T09:02:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, python, django, telegrambot, postgresql, git ",
+        "location": "  toshkent viloyati",
+        "price": " 450 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-25T09:01:05"
+    },
+    {
+        "technologies": "  python, django framework",
+        "location": "  toshkent sh",
+        "price": "  700 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-25T10:00:15"
+    },
+    {
+        "technologies": "  dasturlashga kirish algoritm kursi",
+        "location": "  toshkent sh",
+        "price": " 1,000,000 so’m - oflayn | 800,000 so‘m - onlayn",
+        "post_type": "course",
+        "date": "2022-09-25T11:00:58"
+    },
+    {
+        "technologies": "  python, data science",
+        "location": "  namangan  ",
+        "price": " 400 000 so’m oyiga",
+        "post_type": "course",
+        "date": "2022-09-25T18:01:04"
+    },
+    {
+        "technologies": "  flutter, dart",
+        "location": "  namangan",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-09-29T21:01:53"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql, python , django, telegram bot",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-10-01T12:00:16"
+    },
+    {
+        "technologies": "  php, mysql, laravel",
+        "location": "  namangan",
+        "price": " 400 000 so'mdan  guruh. 1 100 000 so'mdan yakka tartibda",
+        "post_type": "course",
+        "date": "2022-10-01T12:00:16"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, html",
+        "location": "  toshkent sh ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-01T12:00:16"
+    },
+    {
+        "technologies": "  javascript, react, css, html, angular, node js.",
+        "location": "  namangan ",
+        "price": " 400,000 ming so'm",
+        "post_type": "course",
+        "date": "2022-10-05T17:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, vuejs, vuex, vuetify,  nodejs, express, mongodb, mongoose, git",
+        "location": "  namangan",
+        "price": " 40$",
+        "post_type": "course",
+        "date": "2022-10-06T15:00:58"
+    },
+    {
+        "technologies": "  java, kotlin, android",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-06T15:05:11"
+    },
+    {
+        "technologies": "  flutter, android, ios, dart, java, kotlin, provider, bloc, getx, http, dio, retrofit, sqlite, hive, moor, git",
+        "location": "  navoiy",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-07T18:59:59"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, jquery, oop, sql, mongodb, mariadb, php, laravel, telegram bot",
+        "location": "  farg'ona",
+        "price": " tekin",
+        "post_type": "course",
+        "date": "2022-10-09T14:01:54"
+    },
+    {
+        "technologies": "  javascript, react, rudux",
+        "location": "  toshkent sh",
+        "price": " 890 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-10T14:00:00"
+    },
+    {
+        "technologies": "  python, django, flutter, html, css, javascript, veujs",
+        "location": "  toshkent sh",
+        "price": " 500 000 - so'mdan boshlanadi",
+        "post_type": "course",
+        "date": "2022-10-10T20:00:17"
+    },
+    {
+        "technologies": "  python, django, sql, html, css, bootstrap, javascript, react, java, kotlin, android",
+        "location": "  andijon   ",
+        "price": " 442000 so'm dan boshlanadi",
+        "post_type": "course",
+        "date": "2022-10-11T14:59:59"
+    },
+    {
+        "technologies": "  cisco, ccsna, routing, tarmoq administratorligi",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-11T15:59:59"
+    },
+    {
+        "technologies": "  python, django, linux servers, aws, vds",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-12T17:00:00"
+    },
+    {
+        "technologies": "  java",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-13T14:59:59"
+    },
+    {
+        "technologies": "  linux tizim administratorligi ",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-13T16:59:59"
+    },
+    {
+        "technologies": "  html, css, bootstrap,   git ,  javascript, react ,  python, django, sql ,  aiogram, git",
+        "location": "  farg’ona  ",
+        "price": " 200 000 - 500 000 so'mgacha",
+        "post_type": "course",
+        "date": "2022-10-14T16:05:07"
+    },
+    {
+        "technologies": "  cisco, ccnav7, enterprise, routing, switching",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-17T11:59:56"
+    },
+    {
+        "technologies": "  python, sql, telegram bot, javascript, django, html5, css",
+        "location": "  toshkent viloyat",
+        "price": " 500 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-10-17T11:59:56"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql, python , django, telegram bot",
+        "location": "  toshkent sh",
+        "price": " 500.000 so'm",
+        "post_type": "course",
+        "date": "2022-10-17T11:59:56"
+    },
+    {
+        "technologies": "  java",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-18T20:59:59"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-10-18T21:20:04"
+    },
+    {
+        "technologies": "  php, mysql, laravel",
+        "location": "  namangan",
+        "price": " 400 000 so'mdan  guruh. yakka tartibdagisi kelishiladi.",
+        "post_type": "course",
+        "date": "2022-10-20T16:01:49"
+    },
+    {
+        "technologies": "   java, android, react.js, python, django, drf, c#, .net ",
+        "location": "  toshkent sh",
+        "price": " $50 - $90",
+        "post_type": "course",
+        "date": "2022-10-21T21:00:00"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, flutter, dart",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-24T19:59:58"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap5, javascript, jquery, vue.js, vuex.js, nuxt.js, oop, sql, mongodb, mariadb, php,  laravel, telegram bot",
+        "location": "  farg'ona",
+        "price": " tekin",
+        "post_type": "course",
+        "date": "2022-10-25T10:00:38"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux, webpack, next js",
+        "location": "  toshkent sh ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-25T20:00:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react",
+        "location": "  navoiy",
+        "price": " 800 000 so'm online 600 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-27T16:00:00"
+    },
+    {
+        "technologies": " backend foundation:  go",
+        "location": "  toshkent sh",
+        "price": " 400 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-28T13:05:00"
+    },
+    {
+        "technologies": "  uiswift, ios,sdk, uikit, git",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-10-31T20:59:58"
+    },
+    {
+        "technologies": "  html, css, sass, bootstarp, javascript, jquery, react, redux",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-11-01T12:00:01"
+    },
+    {
+        "technologies": "  python, telegram bot, data analytics, devops, test driven development, unix, git ",
+        "location": "  toshkent sh",
+        "price": " 79$",
+        "post_type": "course",
+        "date": "2022-11-01T21:00:01"
+    },
+    {
+        "technologies": "  html, css, javascript, reactjs, redux, php, mysql, linux, axborot xavfsizligi",
+        "location": "  andijon ",
+        "price": " bepul (kelajak kasblari loyixasi asosida)",
+        "post_type": "course",
+        "date": "2022-11-04T21:00:00"
+    },
+    {
+        "technologies": "  javascript, react,  python, spring,  java , oop",
+        "location": "  andijon  ",
+        "price": " 400.000 so'm",
+        "post_type": "course",
+        "date": "2022-11-06T21:00:16"
+    },
+    {
+        "technologies": "   html, css, sass, bootstrap, javascript, react js, redux, webpack, next js, git",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-07T12:00:29"
+    },
+    {
+        "technologies": "  golang, algoritmlar, gin gonic framework, posrgresql and mongodb, unit, integration test, telegram bot, git, linux servers, docker, kubernetes",
+        "location": "  qashqadaryo viloyati koson tumani",
+        "price": " 350 000 - 550 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-11-07T13:01:35"
+    },
+    {
+        "technologies": "  android  ",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-07T14:00:19"
+    },
+    {
+        "technologies": "  sap",
+        "location": "  toshkent shahar",
+        "price": " $100+",
+        "post_type": "course",
+        "date": "2022-11-07T19:00:30"
+    },
+    {
+        "technologies": "  javascript es6, algoritimlar, typescript, nodejs, express js, type orm, posrgresql, mongodb, unit, integration test, telegram bot, git, linux servers, docker, kubernetes",
+        "location": "  qashqadaryo viloyati koson tumani",
+        "price": " 350 000 - 550 000 so'm gacha",
+        "post_type": "course",
+        "date": "2022-11-08T11:01:09"
+    },
+    {
+        "technologies": "  python , django ",
+        "location": "  toshkent sh",
+        "price": "  700 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-16T13:05:00"
+    },
+    {
+        "technologies": "  html, css, sass, javascript/typescript, vuejs/angular, vuex, nuxt, testing.",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-17T13:00:00"
+    },
+    {
+        "technologies": "  python ,django, vds, deploy, linux server, aws, git ",
+        "location": "  toshkent sh",
+        "price": " 700 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-17T15:05:00"
+    },
+    {
+        "technologies": "",
+        "location": "",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-11-17T20:01:21"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql",
+        "location": " t oshkent sh",
+        "price": " 600.000 so'm",
+        "post_type": "course",
+        "date": "2022-11-17T20:05:00"
+    },
+    {
+        "technologies": "  python, postgresql, django, html, css, javascript, reactjs, flutter, dart",
+        "location": "  samarqand",
+        "price": " 590 000 oyiga(noyabr oyi chegirmasi 1 oy yigitlar 20%, qizlar 50%)",
+        "post_type": "course",
+        "date": "2022-11-17T21:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, react, material ui, next.js, typescript, git",
+        "location": "  toshkent  sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-18T11:59:59"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, flutter, dart",
+        "location": " farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-18T12:59:59"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js, redux, webpack, next js, git",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-24T11:00:00"
+    },
+    {
+        "technologies": "  html, css, bootstrap, sass, javascript, reactjs",
+        "location": "  farg'ona",
+        "price": " 150 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-24T13:00:00"
+    },
+    {
+        "technologies": "  javascript, react, python, spring,  java ",
+        "location": "  andijon  ",
+        "price": " 400.000 so'm",
+        "post_type": "course",
+        "date": "2022-11-27T14:00:18"
+    },
+    {
+        "technologies": "  android, flutter bootcamp",
+        "location": "  toshkent sh",
+        "price": " 4 515 200 so'm",
+        "post_type": "course",
+        "date": "2022-11-28T09:59:58"
+    },
+    {
+        "technologies": "  python, django, drf, postgresql, telegram bot",
+        "location": "  samarqand",
+        "price": " 450 000 so'm",
+        "post_type": "course",
+        "date": "2022-11-29T17:00:01"
+    },
+    {
+        "technologies": "  html, css, sass, git, bootstrap, javascript, react js, redux, webpack, next js",
+        "location": "  toshkent   sh  ",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-01T12:01:43"
+    },
+    {
+        "technologies": "  python, django amaliyot kursi",
+        "location": "  toshkent sh",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-01T21:00:15"
+    },
+    {
+        "technologies": "  python, django, postgresql, telegram bot, drf",
+        "location": "  toshkent sh",
+        "price": " 600 000 so'mdan boshlab",
+        "post_type": "course",
+        "date": "2022-12-03T14:00:22"
+    },
+    {
+        "technologies": "  html, css, git, sass, bootstrap, javascript, reactjs, vuejs, angularjs, java, nodejs, expressjs, mongodb, postgresql",
+        "location": "  toshkent sh",
+        "price": " 600.000 so'm",
+        "post_type": "course",
+        "date": "2022-12-05T21:00:00"
+    },
+    {
+        "technologies": "  html, css, scss, bootstrap, javascript, jquery, react, redux, next, typescript",
+        "location": "  toshkent viloyati",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-07T12:01:48"
+    },
+    {
+        "technologies": "  sql, postgresql",
+        "location": "  toshkent sh",
+        "price": " 1 000 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-08T13:01:00"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, javascript, react js, redux, webpack, next js, git",
+        "location": "  toshkent sh",
+        "price": " 800 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-08T14:01:17"
+    },
+    {
+        "technologies": "  html, css, javascript, python, django, drf)",
+        "location": "  toshkent sh",
+        "price": "",
+        "post_type": "course",
+        "date": "2022-12-15T20:00:12"
+    },
+    {
+        "technologies": "  javascript, react, php, laravel, python, django, flutter, dart",
+        "location": "  farg'ona vil qo’qon sh",
+        "price": " 300 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-17T12:02:07"
+    },
+    {
+        "technologies": "  java core, spring boot, android",
+        "location": "  farg'ona   ",
+        "price": " 500 000 so'm",
+        "post_type": "course",
+        "date": "2022-12-17T17:01:40"
+    },
+    {
+        "technologies": "  html, css, sass, bootstrap, reactjs, redux, php, laravel",
+        "location": "  andijon  ",
+        "price": " 200 ming ~ 400 ming",
+        "post_type": "course",
+        "date": "2022-12-19T21:01:49"
+    }
+]
